@@ -59,7 +59,7 @@ de l'argent dans les images à mon sujet, mais dans le texte (aka informations)
 Je vais vous présenter les liens que je considère comme le plus important:
 
 <ul>
-    <li>My blog </li>
+    <li>[My blog](./blog) </li>
     <li>Pictures </li>
     <li>Docs </li>
     <li>The work I do in Debian here </li>
