@@ -11,15 +11,15 @@ about me I think is not something interesting enough. I might write that I was
 born on December, 28th. I like the winter, the grey. I am a chemist doing
 a Master in Quantum Chemistry in France. I am used to reading and programming
 in my free time. I enjoy playing the guitar, in fact I had a band called
-Taciturna. I write poetry, some people say it is bad other ones say that it has
-something good in its inside. Here you are a piece of something that I've
-written:
+[Taciturna](http://myspace.com/taciturnaband). I write poetry, some people say
+it is bad other ones say that it has something good in its inside. Here you are
+a piece of something that I've written:
 
-"Dreams are like the wind... you follow them and it seems as if you wouldn't be
+_"Dreams are like the wind... you follow them and it seems as if you wouldn't be
 able to reach them... you realize that it's possible to reach them, when you
-feel tired and then the breeze rubs your face... you catched the wind..."
+feel tired and then the breeze rubs your face... you catched the wind..."_
 
-I don't like dancing, and I do hate Reggaeton. I hate cigarrettes. I hate the
+I don't like dancing, and I do hate Reggaeton. I hate cigarettes. I hate the
 lies, and when I feel stressed by something as well. I like Mafalda. I don't
 like politicians, they say lots of lies, and they don't care about us.
 
@@ -54,19 +54,22 @@ text (aka information) instead.
 I will present you the links which I consider the most important:
 
 <ul>
-    <li> [My blog](./blog) </li>
-    <li> Pictures </li>
-    <li> Docs </li>
-    <li> The work I do in Debian here </li>
-    <li> My cv (Curriculum Vitae) </li>
-    <li> A way of contacting me </li>
-    <li> Server's Status</li>
-    <li> Statistics </li>
+    <li>My <a href="../blog">blog</a> </li>
+    <li><a href="../fotos">Pictures</a> </li>
+    <li><a href="../files">Docs</a> </li>
+    <li>What I do in <a href="http://qa.debian.org/developer.php?login=muammar">Debian</a></li>
+    <li>My <a href=".cv/">cv</a> (Curriculum vitae) </li>
+    <li><a href="./contactme">contact me</a></li>
+    <li><a href="../servidor">Server</a> status </li>
+    <li><a href="http://muammar.me/awstats/awstats.pl">Statistics</a></li>
 </ul>
 
 ### What I listen to, and What I watch.
 
-I have a profile at last.fm, and libre.fm. If you want to know what I watch, you can take a look at My Youtube Channel.
+I have a profile at [last.fm](http://www.last.fm/user/muammark) and
+[libre.fm](http://libre.fm/user-profile.php?user=muammar). If you want to know
+what I watch, you can take a look at [My Youtube Channel](http://youtube.com/muammarelkhatib).
+
 
 ### Books that I have read
 
