@@ -11,15 +11,16 @@ Muammar. Parler de moi, je pense que ce n'est pas quelque chose assez
 intéressante. Je pourrais écrire que je suis né le 28 Décembre. J'aime l'hiver,
 le gris. Je suis chimiste et thésard en chimie quantique en France. Je suis
 habitué à la lecture et la programmation dans mon temps libre. J'aime jouer de
-la guitare, en fait, j'avais un groupe appelé Taciturna. J'écris de la poésie,
-il y a certaines personnes qui disent qu'il est mauvais celles d'autres disent
+la guitare, en fait, j'avais un groupe appelé
+[Taciturna](http://myspace.com/taciturnaband). J'écris de la poésie, il
+y a certaines personnes qui disent qu'il est mauvais celles d'autres disent
 qu'il a quelque chose de bon dans son intérieur. Ici vous avez un morceau de
 quelque chose que j'ai écrit:
 
-"Les rêves sont comme le vent ... vous les suivez, et il semble que si vous ne
+_"Les rêves sont comme le vent ... vous les suivez, et il semble que si vous ne
 serait pas en mesure de les atteindre ... vous vous rendez compte qu'il est
 possible de les atteindre, quand vous vous sentez fatigué et puis la brise se
-frotte le visage. .. vous attrapé le vent ... "
+frotte le visage. .. vous attrapé le vent ... "_
 
 Je n'aime pas danser, et je déteste Reggaeton. Je déteste les cigarettes. Je
 déteste les mensonges, et quand je me sens souligné par quelque chose d'aussi
@@ -59,20 +60,22 @@ de l'argent dans les images à mon sujet, mais dans le texte (aka informations)
 Je vais vous présenter les liens que je considère comme le plus important:
 
 <ul>
-    <li>[My blog](./blog) </li>
-    <li>Pictures </li>
-    <li>Docs </li>
-    <li>The work I do in Debian here </li>
-    <li>My cv (Curriculum Vitae) </li>
-    <li>A way of contacting me </li>
-    <li>Server's Status </li>
-    <li>Statistics </li>
+    <li>Mon <a href="../blog">blog</a> </li>
+    <li><a href="../fotos">Photos</a> </li>
+    <li><a href="../files">Documents</a> </li>
+    <li>Ce que je fait en <a href="http://qa.debian.org/developer.php?login=muammar">Debian</a></li>
+    <li>Mon <a href=".cv/">cv</a> (Curriculum vitae) </li>
+    <li><a href="./contactme">Contactez-moi</a></li>
+    <li><a href="../servidor">Server</a> status </li>
+    <li><a href="http://muammar.me/awstats/awstats.pl">Statistique</a></li>
 </ul>
 
 ### Qu'est-ce que j'écoute, et ce que je regarde
 
-J'ai un profil sur last.fm, et libre.fm. Si vous voulez savoir ce que je
-regarde, vous pouvez jeter un oeil à ma chaîne Youtube.
+J'ai un profil sur [last.fm](http://www.last.fm/user/muammark) et
+[libre.fm](http://libre.fm/user-profile.php?user=muammar). Si vous voulez
+savoir ce que je regarde, vous pouvez jeter un œil à [ma chaîne
+Youtube](http://youtube.com/muammarelkhatib)
 
 
 ### Livres que j'ai lus
