@@ -54,7 +54,7 @@ text (aka information) instead.
 I will present you the links which I consider the most important:
 
 <ul>
-    <li> My blog </li>
+    <li> [My blog](./blog) </li>
     <li> Pictures </li>
     <li> Docs </li>
     <li> The work I do in Debian here </li>
