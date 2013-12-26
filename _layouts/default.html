@@ -75,6 +75,7 @@
     <header>
       <h1 class="logo" onclick="document.location.href='/';"><a href="/"><img src="/res/signature-2-2.png" width="160" height="50" alt="Signature"></a></h1>
       <ul class="navigation">
+        <li><a href="/"{% if page.url contains "/" %}class="active"{% endif %} title="Home">home</a></li>
         <li><a href="/en/"{% if page.url contains "/en/" %}class="active"{% endif %} title="English">en</a></li>
         <li><a href="/es/"{% if page.url contains "/es/" %}class="active"{% endif %} title="Contenido en Español">es</a></li>
         <li><a href="/fr/"{% if page.url contains "/fr/" %}class="active"{% endif %} title="Français">fr</a></li>
