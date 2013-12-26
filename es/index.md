@@ -48,7 +48,7 @@ desperdicien en imágenes si no en texto (información).
 A continuación encontrarás los enlaces que considero serían más importantes:
 
 <ul>
-    <li>Mi blog </li>
+    <li>[Mi blog](./blog) </li>
     <li>Fotos </li>
     <li>Docs </li>
     <li>Algunas frases que me gustan </li>
