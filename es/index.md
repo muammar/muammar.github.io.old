@@ -10,13 +10,13 @@ mi no se si sería algo interesante. Solo puedo comentar que nací un 28 de
 Diciembre. Me gusta el invierno, el gris. Soy Venezolano, licenciado en química
 pura haciendo un Master en Físico Química Cuántica en Francia, Debian Developer
 y Músico. En mis tiempos libres suelo leer y programar. Me gusta tocar la
-guitarra, y tenía una banda llamada Taciturna. Escribo poesía, algunos dicen
-que es mala y otros que tiene algo. Aquí comparto un fragmento de cosas que
-pienso:
+guitarra, y tenía una banda llamada [Taciturna](http://myspace.com/taciturnaband).
+Escribo poesía, algunos dicen que es mala y otros que tiene algo. Aquí comparto
+un fragmento de cosas que pienso:
 
-"Los sueños a veces son como el viento... los sigues pero pareciera que no los
+_"Los sueños a veces son como el viento... los sigues pero pareciera que no los
 pudieras alcanzar... te das cuenta que es posible alcanzarlos cuando te agotas
-y la brisa choca contra tu cara... atrapaste al viento..."
+y la brisa choca contra tu cara... atrapaste al viento..."_
 
 No me gusta bailar, odio el Reggaeton. Odio el cigarrillo. Odio las mentiras
 y la presión. Me gusta Mafalda. Los políticos no me gustan, mienten mucho. Odio
@@ -49,19 +49,21 @@ A continuación encontrarás los enlaces que considero serían más importantes:
 
 <ul>
     <li>Mi <a href="../blog">blog</a> </li>
-    <li>Fotos </li>
-    <li>Docs </li>
-    <li>Algunas frases que me gustan </li>
-    <li>El trabajo que hago en Debian aquí </li>
-    <li>Mi cv (Hoja de vida) </li>
-    <li>Alguna manera de contactarme </li>
-    <li>Estatus de mi servidor casero </li>
-    <li>Estadísticas </li>
+    <li><a href="../fotos">Fotos</a> </li>
+    <li><a href="../files">Docs</a> </li>
+    <li>Algunas <a href="./frases">frases que me gustan</a> </li>
+    <li>El trabajo que hago en <a href="http://qa.debian.org/developer.php?login=muammar">Debian aquí</a></li>
+    <li>Mi <a href=".cv/">cv</a> (Hoja de vida) </li>
+    <li>Alguna manera de <a href="./contactarme">contactarme</a></li>
+    <li>Estatus de mi <a href="../servidor">servidor</a> casero </li>
+    <li><a href="http://muammar.me/awstats/awstats.pl">Estadísticas</a></li>
 </ul>
 
 ### Lo que escucho, lo que veo
 
-Tengo un perfil en last.fm y libre.fm. Si quieres saber lo que veo, puedes ver mi canal en Youtube.
+Tengo un perfil en [last.fm](http://www.last.fm/user/muammark)
+y [libre.fm](http://libre.fm/user-profile.php?user=muammar). Si quieres saber
+lo que veo, puedes ver [mi canal en Youtube](http://youtube.com/muammarelkhatib).
 
 ### Libros que he leído
 
