@@ -17,4 +17,16 @@ Bienvenue sur mon site personnel. Vous pouvez voir le contenu de celui-ci en
 moins un TTY soit avec links ou lynx installés. Si vous considérez laide de la
 conception de cette page, vous pouvez toujours cliquer ici.
 
+Yes, I hate to put ads, but I need money :).
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- leaderboardmuammar -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+          data-ad-client="ca-pub-5821724605404798"
+               data-ad-slot="7598110701"></ins>
+               <script>
+               (adsbygoogle = window.adsbygoogle || []).push({});
+               </script>
 <img src="/photo.jpg" width="240" height="240" align="right">
+
