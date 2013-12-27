@@ -4,11 +4,11 @@ fb_comments: 3
 title: Contact
 ---
 
-#### Correo Electrónico
+#### Mail
 
 - muammar [at] muammar.me
 
-####IRC
+#### IRC
 
 - muammar@freenode.net
 
@@ -18,18 +18,18 @@ title: Contact
 
 - [http://twitter.com/muammar](http://twitter.com/muammar)
 
-####Identica
+#### Identica
 
 - [http://identi.ca/muammar](http://identi.ca/muammar)
 
-####Google+
+#### Google+
 
 - [http://www.google.com/profiles/muammarelkhatib](http://www.google.com/profiles/muammarelkhatib)
 
-####Facebook
+#### Facebook
 
 - [http://www.facebook.com/muammarelkhatib](http://www.facebook.com/muammarelkhatib)
 
-####About me
+#### About me
 
 - [http://about.me/muammar](http://about.me/muammar)
