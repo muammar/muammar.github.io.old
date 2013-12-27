@@ -53,7 +53,7 @@ A continuación encontrarás los enlaces que considero serían más importantes:
     <li><a href="../files">Docs</a> </li>
     <li>Algunas <a href="./frases">frases que me gustan</a> </li>
     <li>El trabajo que hago en <a href="http://qa.debian.org/developer.php?login=muammar">Debian aquí</a></li>
-    <li>Mi <a href=".cv/">cv</a> (Hoja de vida) </li>
+    <li>Mi <a href="../files/cv/">cv</a> (Hoja de vida) </li>
     <li>Alguna manera de <a href="./contactarme">contactarme</a></li>
     <li>Estatus de mi <a href="../servidor">servidor</a> casero </li>
     <li><a href="http://muammar.me/awstats/awstats.pl">Estadísticas</a></li>
