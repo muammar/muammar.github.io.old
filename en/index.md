@@ -58,7 +58,7 @@ I will present you the links which I consider the most important:
     <li><a href="../fotos">Pictures</a> </li>
     <li><a href="../files">Docs</a> </li>
     <li>What I do in <a href="http://qa.debian.org/developer.php?login=muammar">Debian</a></li>
-    <li>My <a href=".cv/">cv</a> (Curriculum vitae) </li>
+    <li>My <a href="../files/cv/">cv</a> (Curriculum vitae) </li>
     <li><a href="./contactme">contact me</a></li>
     <li><a href="../servidor">Server</a> status </li>
     <li><a href="http://muammar.me/awstats/awstats.pl">Statistics</a></li>
