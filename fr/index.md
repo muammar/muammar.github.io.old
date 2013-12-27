@@ -64,7 +64,7 @@ Je vais vous présenter les liens que je considère comme le plus important:
     <li><a href="../fotos">Photos</a> </li>
     <li><a href="../files">Documents</a> </li>
     <li>Ce que je fait en <a href="http://qa.debian.org/developer.php?login=muammar">Debian</a></li>
-    <li>Mon <a href=".cv/">cv</a> (Curriculum vitae) </li>
+    <li>Mon <a href="../files/cv/">cv</a> (Curriculum vitae) </li>
     <li><a href="./contactme">Contactez-moi</a></li>
     <li><a href="../servidor">Server</a> status </li>
     <li><a href="http://muammar.me/awstats/awstats.pl">Statistique</a></li>
