@@ -7,7 +7,7 @@ title: About
 ### À propos de moi
 
 Si vous êtes arrivé ici, je pense que vous devriez savoir que je m'appelle
-Muammar. Parler de moi, je pense que ce n'est pas quelque chose assez
+Muammar. Parler de moi, je ne pense que ce soit quelque chose assez
 intéressante. Je pourrais écrire que je suis né le 28 Décembre. J'aime l'hiver,
 le gris. Je suis chimiste et thésard en chimie quantique en France. Je suis
 habitué à la lecture et la programmation dans mon temps libre. J'aime jouer de
