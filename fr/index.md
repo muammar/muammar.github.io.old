@@ -36,10 +36,10 @@ suis passionné au sujet de la Mécanique Quantique et Debian. J'aime ma femme,
 même en sachant que je n'ai pas la certitude qu'elle ressent la même chose. Je
 pense que la douleur fait partie de nos vies.
 
-Si vous lisez encore à ce point pour que je puisse dire que parler de moi,
-c'est intéressant :), mais je ne préfère penser que vous atteignez à lire à ce
-point parce que vous n'avez rien d'autre à faire :), je m'arrête écrit ici,
-Idées ne sont pas venir à mon esprit plus.
+Si vous lisez encore à ce point donc je pourrai dire que parler de moi, c'est
+intéressant :), mais je ne préfère penser que vous atteignez à lire à ce point
+parce que vous n'avez rien d'autre à faire :), je m'arrête écrit ici, Idées ne
+sont pas venir à mon esprit plus.
 
 ## À propos de ce site
 
