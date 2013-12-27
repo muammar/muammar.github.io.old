@@ -3,7 +3,7 @@ layout: page
 title: /home/muammar/
 ---
 
-<img src="/photo.jpg" width="240" height="240" align="right">
+<img src="/photo.jpg" width="200" height="200" align="right">
 Bienvenidos a mi página personal. Puedes ver los contenidos en [Español aquí](./es).
 Para visualizar bien esta página necesitas al menos un TTY con links o lynx
 instalado. Si te parece feo el diseño puedes dar [click aquí](./trollface.jpg).
