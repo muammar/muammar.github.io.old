@@ -79,16 +79,13 @@ savoir ce que je regarde, vous pouvez jeter un œil à [ma chaîne
 Youtube](http://youtube.com/muammarelkhatib)
 
 
-### Livres que j'ai lus
+### Livres que j'ai lu
 
-James C. Hunter, 1999, "La paradoja: un relato sobre la verdadera esencia del
+- James C. Hunter, 1999, "La paradoja: un relato sobre la verdadera esencia del
 liderazgo".
-
-Jorge Isaac, "María".
-
-Pablo Neruda, "20 poemas de amor y una canción desesperada".
-
-Friedrich Nietzsche, "Thus Spake Zarathustra".
+- Jorge Isaac, "María".
+- Pablo Neruda, "20 poemas de amor y una canción desesperada".
+- Friedrich Nietzsche, "Thus Spake Zarathustra".
 
 Et beaucoup plus ... Je vais les mettre quand j'aurai plus de temps ..
 

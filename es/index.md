@@ -67,16 +67,11 @@ lo que veo, puedes ver [mi canal en Youtube](http://youtube.com/muammarelkhatib)
 
 ### Libros que he leído
 
-James C. Hunter, 1999, "La paradoja: un relato sobre la verdadera esencia del liderazgo".
+- James C. Hunter, 1999, "La paradoja: un relato sobre la verdadera esencia del liderazgo".
+- Jorge Isaac, "María".
+- Pablo Neruda, "20 poemas de amor y una canción desesperada".
+- Edith Södergran, "Antología Poética".
+- Júlio César de Mello e Souza, "El Hombre que Calculaba".
+- Franz Kafka, "La metamorfosis".
 
-Jorge Isaac, "María".
-
-Pablo Neruda, "20 poemas de amor y una canción desesperada".
-
-Edith Södergran, "Antología Poética".
-
-Júlio César de Mello e Souza, "El Hombre que Calculaba".
-
-Franz Kafka, "La metamorfosis".
-
-Y otros más pero no he tenido tiempo de agregarlos, o no los recuerdo ya :)
+ Y otros más pero no he tenido tiempo de agregarlos, o no los recuerdo ya :)

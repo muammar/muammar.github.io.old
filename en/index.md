@@ -73,12 +73,9 @@ what I watch, you can take a look at [My Youtube Channel](http://youtube.com/mua
 
 ### Books that I have read
 
-James C. Hunter, 1999, "La paradoja: un relato sobre la verdadera esencia del liderazgo".
-
-Jorge Isaac, "María".
-
-Pablo Neruda, "20 poemas de amor y una canción desesperada".
-
-Friedrich Nietzsche, "Thus Spake Zarathustra".
+- James C. Hunter, 1999, "La paradoja: un relato sobre la verdadera esencia del liderazgo".
+- Jorge Isaac, "María".
+- Pablo Neruda, "20 poemas de amor y una canción desesperada".
+- Friedrich Nietzsche, "Thus Spake Zarathustra".
 
 And many more... I'll put them when I have more time..
