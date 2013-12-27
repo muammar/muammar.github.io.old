@@ -22,10 +22,11 @@ serait pas en mesure de les atteindre ... vous vous rendez compte qu'il est
 possible de les atteindre, quand vous vous sentez fatigué et puis la brise se
 frotte le visage. .. vous attrapé le vent ... "_
 
-Je n'aime pas danser, et je déteste Reggaeton. Je déteste les cigarettes. Je
-déteste les mensonges, et quand je me sens souligné par quelque chose d'aussi
-bien. J'aime Mafalda. Je n'aime pas les politiciens, disent-ils beaucoup de
-mensonges, et ils ne se soucient pas de nous.
+Je n'aime pas danser, et je déteste le Reggaeton. Je déteste aussi les
+cigarettes. Au même temps, je déteste les mensonges, et lorsque je me sens
+souligné par quelque chose d'aussi bien. J'aime Mafalda. Je n'aime pas les
+politiciens, ils disent beaucoup de mensonges, et ils ne se soucient pas de
+nous.
 
 Je déteste Windows (XP, VISTA ou tout autre). Je pense que tout devrait suivre
 d'un point naturel. J'aime bien de voyager parce que je peux rencontrer des
