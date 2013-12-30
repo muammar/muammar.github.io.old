@@ -7,8 +7,8 @@ title: Español
 
 Si llegaste hasta aquí debes saber que mi nombre es Muammar. Hablar acerca de
 mi no se si sería algo interesante. Solo puedo comentar que nací un 28 de
-Diciembre. Me gusta el invierno, el gris. Soy Venezolano, licenciado en química
-pura haciendo un Master en Físico Química Cuántica en Francia, Debian Developer
+Diciembre. Me gusta el invierno, el gris. Soy Venezolano, Magister en química
+pura haciendo un Doctorado en Físico Química Cuántica en Francia, Debian Developer
 y Músico. En mis tiempos libres suelo leer y programar. Me gusta tocar la
 guitarra, y tenía una banda llamada [Taciturna](http://myspace.com/taciturnaband).
 Escribo poesía, algunos dicen que es mala y otros que tiene algo. Aquí comparto

@@ -9,11 +9,11 @@ title: About
 Si vous êtes arrivé ici, je pense que vous devriez savoir que je m'appelle
 Muammar. Parler de moi, je ne pense que ce soit quelque chose assez
 intéressante. Je pourrais écrire que je suis né le 28 Décembre. J'aime l'hiver,
-le gris. Je suis chimiste et thésard en chimie quantique en France. Je suis
-habitué à la lecture et la programmation dans mon temps libre. J'aime jouer de
-la guitare, en fait, j'avais un groupe qui s'appelé
-[Taciturna](http://myspace.com/taciturnaband). J'écris de la poésie, il
-y a certaines personnes qui disent qu'il est mauvais celles d'autres disent
+le gris. Je suis chimiste avec un Master Recherche et thésard en chimie
+quantique en France. Je suis habitué à la lecture et la programmation dans mon
+temps libre. J'aime jouer de la guitare, en fait, j'avais un groupe qui
+s'appelé [Taciturna](http://myspace.com/taciturnaband). J'écris de la poésie,
+il y a certaines personnes qui disent qu'il est mauvais celles d'autres disent
 qu'il a quelque chose de bon dans son intérieur. Ici vous avez un morceau de
 quelque chose que j'ai écrit:
 

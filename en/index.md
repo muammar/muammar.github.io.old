@@ -8,12 +8,12 @@ title: About
 
 If you arrived here I think you should know that my name is Muammar. Talking
 about me I think is not something interesting enough. I might write that I was
-born on December, 28th. I like the winter, the grey. I am a chemist doing
-a Master in Quantum Chemistry in France. I am used to reading and programming
-in my free time. I enjoy playing the guitar, in fact I had a band called
-[Taciturna](http://myspace.com/taciturnaband). I write poetry, some people say
-it is bad other ones say that it has something good in its inside. Here you are
-a piece of something that I've written:
+born on December, 28th. I like the winter, the grey. I have a master in
+Chemistry and I'm doing a PhD in Quantum Chemistry in France. I am used to
+reading and programming in my free time. I enjoy playing the guitar, in fact
+I had a band called [Taciturna](http://myspace.com/taciturnaband). I write
+poetry, some people say it is bad other ones say that it has something good in
+its inside. Here you are a piece of something that I've written:
 
 _"Dreams are like the wind... you follow them and it seems as if you wouldn't be
 able to reach them... you realize that it's possible to reach them, when you
