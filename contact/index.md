@@ -8,6 +8,10 @@ title: Contact
 
 - muammar [at] muammar.me
 
+#### Linkedin
+
+- [http://www.linkedin.com/in/muammarelkhatib](http://www.linkedin.com/in/muammarelkhatib)
+
 #### IRC
 
 - muammar@freenode.net
