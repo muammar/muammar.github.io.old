@@ -50,7 +50,7 @@ A continuación encontrarás los enlaces que considero serían más importantes:
 <ul>
     <li>Mi <a href="../blog">blog</a> </li>
     <li><a href="../fotos">Fotos</a> </li>
-    <li><a href="../files">Docs</a> </li>
+    <li><a href="../files">Archivos</a> </li>
     <li>Algunas <a href="./frases">frases que me gustan</a> </li>
     <li>El trabajo que hago en <a href="http://qa.debian.org/developer.php?login=muammar">Debian aquí</a></li>
     <li>Mi <a href="../files/cv/">cv</a> (Hoja de vida) </li>

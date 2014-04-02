@@ -63,7 +63,7 @@ Je vais vous présenter les liens que je considère comme le plus important:
 <ul>
     <li>Mon <a href="../blog">blog</a> </li>
     <li><a href="../fotos">Photos</a> </li>
-    <li><a href="../files">Documents</a> </li>
+    <li><a href="../files">Fichiers</a> </li>
     <li>Ce que je fait en <a href="http://qa.debian.org/developer.php?login=muammar">Debian</a></li>
     <li>Mon <a href="../files/cv/">cv</a> (Curriculum vitae) </li>
     <li><a href="../contact">Contactez-moi</a></li>
