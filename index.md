@@ -13,10 +13,11 @@ For visualizing this site correctly, you'll need at least a TTY with either
 links or lynx installed. If you consider ugly the design of this page you can
 [click here](./trollface.jpg).
 
-Bienvenue sur mon site personnel. Vous pouvez voir le contenu de celui-ci en
-[Français ici](./fr). Pour visualiser correctement ce site, vous aurez besoin d'au
-moins un TTY soit avec links ou lynx installés. Si vous considérez laide de la
-conception de cette page, vous pouvez toujours [cliquer ici](./trollface.jpg).
+Bienvenue sur mon site web. Vous pouvez voir le contenu de celui-ci en
+[Français](./fr). Pour une visualization correcte de ce site web, vous aurez
+besoin d'au moins une TTY soit avec links ou soit lynx installés. Si vous
+considérez moche le dessin de mon site web, vous pouvez toujours [cliquer
+ici](./trollface.jpg).
 
 Yes, I hate to put ads, but I need money :).
 
