@@ -15,6 +15,16 @@ Part of my work has consisted in method development. We are proposing a new
 indicator called *Position Spread tensor* that can be used to characterize
 chemical bonds and at the same time monitor the wave functions (Ψ).
 
+I have developed expertise in the use of methods based on the wave function
+such as: [Multi-configurational self-consistent
+field](http://en.wikipedia.org/wiki/Multi-configurational_self-consistent_field)
+(CASSCF),
+[N-electron_valence_state_perturbation_theory](http://en.wikipedia.org/wiki/N-electron_valence_state_perturbation_theory)
+(NEVPT), [Multireference configuration
+interaction](http://en.wikipedia.org/wiki/Multireference_configuration_interaction)
+(MRCI), and [Full configuration
+interaction](http://en.wikipedia.org/wiki/Full_configuration_interaction).
+
 ### List of publications
 
 1.  El Khatib M., Evangelisti S., Leininger T., Bendazzoli G.L., "A Theoretical Study of Closed Polyacene Structures", Phys. Chem. Chem. Phys., 14, 15666-15676 (2012).  DOI: 10.1039/C2CP42144E
