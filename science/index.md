@@ -32,10 +32,10 @@ I have some github repositories with some programs that may be of interest:
 1. **Huckel** ([https://github.com/muammar/huckel](https://github.com/muammar/huckel))
 
  This is a python program that takes your MOLPRO output file, and from the
-Cartesian coordinates, it forms a Huckel hamiltonian matrix to then give you
-the eigenvalues to be plotted against the normalized eigenvalues ordinal
-numbers as showed in [1,5]. It is also possible to delete desired Carbon atoms
-by indicanting their respective numbers in the structure.
+ Cartesian coordinates, it forms a Huckel hamiltonian matrix to then give you
+ the eigenvalues to be plotted against the normalized eigenvalues ordinal
+ numbers as showed in Ref.[1], and [5]. It is also possible to delete desired
+ Carbon atoms by indicanting their respective numbers in the structure.
 
 - **Centerfinder** ([https://github.com/muammar/centerfinder](https://github.com/muammar/centerfinder))
 
