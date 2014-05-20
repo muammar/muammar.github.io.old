@@ -18,8 +18,8 @@ chemical bonds and at the same time monitor the wave functions (Ψ).
 I have developed expertise in the use of methods based on the wave function
 such as: [Multi-configurational self-consistent
 field](http://en.wikipedia.org/wiki/Multi-configurational_self-consistent_field)
-(CASSCF),
-[N-electron_valence_state_perturbation_theory](http://en.wikipedia.org/wiki/N-electron_valence_state_perturbation_theory)
+(CASSCF), [N-electron valence state
+perturbation_theory](http://en.wikipedia.org/wiki/N-electron_valence_state_perturbation_theory)
 (NEVPT), [Multireference configuration
 interaction](http://en.wikipedia.org/wiki/Multireference_configuration_interaction)
 (MRCI), and [Full configuration
