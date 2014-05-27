@@ -63,6 +63,6 @@ surface.
 
 -  El Khatib M., Evangelisti S., Leininger T., Bendazzoli G.L., "Partly Saturated Polyacene Structures: a Theoretical Study", In press in JMMO (2014).
 
--  El Khatib M., Bendazzoli G.L., Evangelisti S., Helal W., Leininger T., Tenti L., Angeli C., "Beryllium- Dimer: a Bond based on non-Dynamical Correlation", in Press JCP A (2014).
+-  El Khatib M., Bendazzoli G.L., Evangelisti S., Helal W., Leininger T., Tenti L., Angeli C., "Beryllium- Dimer: a Bond based on non-Dynamical Correlation", in Press J. Phys. Chem. A (2014). DOI: 10.1021/jp503145u
 
 More information soon.
