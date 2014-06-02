@@ -12,7 +12,7 @@ metal-insulator transitions in low dimensional systems as well as other
 theoretical studies.
 
 Part of my work has consisted in method development. We are proposing a new
-indicator called *Position Spread tensor* that can be used to characterize
+indicator called *[Position Spread tensor](https://en.wikipedia.org/wiki/Total_Position_Spread)* that can be used to characterize
 chemical bonds and at the same time monitor the wave functions (Ψ).
 
 I have developed expertise in the use of methods based on the wave function
