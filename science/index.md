@@ -9,7 +9,8 @@ title: Science
 I am interested in the theory of the electronic structure of atoms and
 molecules. In the framework of my PhD thesis, I am working in the
 metal-insulator transitions in low dimensional systems as well as other
-theoretical studies.
+theoretical studies. I have also put online some posters and slides about the
+work I have done during my PhD [here](http://muammar.me/files/chemistry/).
 
 Part of my work has consisted in method development. We are proposing a new
 indicator called *[Position Spread tensor](https://en.wikipedia.org/wiki/Total_Position_Spread)* that can be used to characterize
@@ -25,9 +26,6 @@ interaction](http://en.wikipedia.org/wiki/Multireference_configuration_interacti
 (MRCI), and [Full configuration
 interaction](http://en.wikipedia.org/wiki/Full_configuration_interaction).
 
-You can follow me in [Research Gate](https://www.researchgate.net/profile/Muammar_El_Khatib).
-
-I have also put online some posters and slides about the work I have done during my PhD [here](http://muammar.me/files/chemistry/)
 
 ### List of published software
 

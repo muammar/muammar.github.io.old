@@ -12,6 +12,10 @@ title: Contact
 
 - [http://www.linkedin.com/in/muammarelkhatib](http://www.linkedin.com/in/muammarelkhatib)
 
+#### Researchgate
+
+- [https://www.researchgate.net/profile/Muammar_El_Khatib](https://www.researchgate.net/profile/Muammar_El_Khatib).
+
 #### IRC
 
 - muammar@freenode.net
