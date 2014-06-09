@@ -25,8 +25,15 @@ interaction](http://en.wikipedia.org/wiki/Multireference_configuration_interacti
 (MRCI), and [Full configuration
 interaction](http://en.wikipedia.org/wiki/Full_configuration_interaction).
 
-### List of published software
+You can follow me in [Research Gate]https://www.researchgate.net/profile/Muammar_El_Khatib).
 
+### List of published software/slides/files
+
+#### Slides and files
+
+- [http://muammar.me/files/chemistry/](http://muammar.me/files/chemistry/)
+
+#### Software
 I have some github repositories with some programs that may be of interest:
 
 - **Huckel** ([https://github.com/muammar/huckel](https://github.com/muammar/huckel))
