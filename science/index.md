@@ -47,6 +47,12 @@ file in order to perform later incremental calculations as stated in H.
 Stoll, Chem. Phys. Lett., 1992, 19. This is normally a very tedious work to
 be done by hand, and it's there when centerfinder comes to help.
 
+- **Heisengerg** ([https://github.com/muammar/heisenberg](https://github.com/muammar/heisenberg))
+
+ A python program written by E. Fertitta and myself to build a heisenberg
+ hamiltonian matrix, diagonalize it and calculate the  [Position Spread
+ tensor](https://en.wikipedia.org/wiki/Total_Position_Spread).
+
 - **Vertex** ([https://github.com/muammar/vertex](https://github.com/muammar/vertex))
 
   This is a very simple program that helps you to fit a parabola from three
