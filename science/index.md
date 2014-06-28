@@ -67,7 +67,7 @@ surface.
 
 -  El Khatib M., Leininger T., Bendazzoli G.L., Evangelisti S.., "Computing the Position-Spread tensor in the CAS-SCF formalism", Chem. Phys. Lett., 591, 58-63 (2014).  DOI: [10.1016/j.cplett.2013.10.080](http://dx.doi.org/10.1016/j.cplett.2013.10.080)
 
--  Bendazzoli G.L., El Khatib M., Evangelisti S., Leininger T., "The Position Spread Tensor in Mixed- Valence Compounds: a Study on the H + 4 Model System", J. Comput. Chem., 35, 802-808 (2014). DOI: [10.1002/jcc.23557}](http://dx.doi.org/10.1002/jcc.23557)
+-  Bendazzoli G.L., El Khatib M., Evangelisti S., Leininger T., "The Position Spread Tensor in Mixed- Valence Compounds: a Study on the H + 4 Model System", J. Comput. Chem., 35, 802-808 (2014). DOI: [10.1002/jcc.23557](http://dx.doi.org/10.1002/jcc.23557)
 
 -  El Khatib M., Evangelisti S., Leininger T., Bendazzoli G.L., "Partly Saturated Polyacene Structures: a Theoretical Study", J. Mol. Model. 20, 2284 (2014).  DOI: [10.1007/s00894-014-2284-7](http://dx.doi.org/10.1007/s00894-014-2284-7)
 
