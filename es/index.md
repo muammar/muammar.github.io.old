@@ -47,17 +47,14 @@ desperdicien en imágenes si no en texto (información).
 
 A continuación encontrarás los enlaces que considero serían más importantes:
 
-<ul>
-    <li>Mi <a href="../blog">blog</a> </li>
-    <li><a href="../fotos">Fotos</a> </li>
-    <li><a href="../files">Archivos</a> </li>
-    <li>Algunas <a href="./frases">frases que me gustan</a> </li>
-    <li>El trabajo que hago en <a href="http://qa.debian.org/developer.php?login=muammar">Debian aquí</a></li>
-    <li>Mi <a href="../files/cv/">cv</a> (Hoja de vida) </li>
-    <li>Alguna manera de <a href="../contact">contactarme</a></li>
-    <li>Estatus de mi <a href="../servidor">servidor</a> casero </li>
-    <li><a href="http://muammar.me/awstats/awstats.pl">Estadísticas</a></li>
-</ul>
+- Mi [blog]({{ site.url }}/blog/).
+- [Fotos]({{ site.url }}/fotos/).
+- [Archivos]({{ site.url }}/files/).
+- Lo que hago en [Debian](http://qa.debian.org/developer.php?login=muammar).
+- Mi [hoja de vida]({{ site.url }}/cv/).
+- Alguna de las maneras de [contactarme]({{ site.url }}/contact/).
+- [Servidor]({{ site.url }}/servidor/).
+- [Estadísticas]({{ site.url }}/awstats/awstats.pl).
 
 ### Lo que escucho, lo que veo
 

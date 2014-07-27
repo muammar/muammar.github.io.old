@@ -53,16 +53,14 @@ text (aka information) instead.
 
 I will present you the links which I consider the most important:
 
-<ul>
-    <li>My <a href="../blog">blog</a> </li>
-    <li><a href="../fotos">Pictures</a> </li>
-    <li><a href="../files">Files</a> </li>
-    <li>What I do in <a href="http://qa.debian.org/developer.php?login=muammar">Debian</a></li>
-    <li>My <a href="../files/cv/">cv</a> (Curriculum vitae) </li>
-    <li><a href="../contact">contact me</a></li>
-    <li><a href="../servidor">Server</a> status </li>
-    <li><a href="http://muammar.me/awstats/awstats.pl">Statistics</a></li>
-</ul>
+- My [blog]({{ site.url }}/blog/).
+- [Pictures]({{ site.url }}/fotos/).
+- [Files]({{ site.url }}/files/).
+- What I do in [Debian](http://qa.debian.org/developer.php?login=muammar).
+- My [CV]({{ site.url }}/cv/).
+- [Contact me]({{ site.url }}/contact/).
+- [Server]({{ site.url }}/servidor/).
+- [Statistics]({{ site.url }}/awstats/awstats.pl).
 
 ### What I listen to, and What I watch.
 

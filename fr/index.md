@@ -60,16 +60,14 @@ de l'argent dans les images à mon sujet, mais dans le texte (aka informations)
 
 Je vais vous présenter les liens que je considère comme le plus important:
 
-<ul>
-    <li>Mon <a href="../blog">blog</a> </li>
-    <li><a href="../fotos">Photos</a> </li>
-    <li><a href="../files">Fichiers</a> </li>
-    <li>Ce que je fait en <a href="http://qa.debian.org/developer.php?login=muammar">Debian</a></li>
-    <li>Mon <a href="../files/cv/">cv</a> (Curriculum vitae) </li>
-    <li><a href="../contact">Contactez-moi</a></li>
-    <li><a href="../servidor">Server</a> status </li>
-    <li><a href="http://muammar.me/awstats/awstats.pl">Statistique</a></li>
-</ul>
+- Mon [blog]({{ site.url }}/blog/).
+- [Photos]({{ site.url }}/fotos/).
+- [Fichiers]({{ site.url }}/files/).
+- Ce que je fais en [Debian](http://qa.debian.org/developer.php?login=muammar).
+- Mon [Curriculum vitae]({{ site.url }}/cv/).
+- [Contactez-moi]({{ site.url }}/contact/).
+- [Server]({{ site.url }}/servidor/).
+- [Statistique]({{ site.url }}/awstats/awstats.pl).
 
 ### Qu'est-ce que j'écoute, et ce que je regarde
 
