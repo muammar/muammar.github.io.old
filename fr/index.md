@@ -62,7 +62,7 @@ Je vais vous présenter les liens que je considère comme le plus important :
 - [Photos]({{ site.url }}/fotos/).
 - [Fichiers]({{ site.url }}/files/).
 - Ce que je fais en [Debian](http://qa.debian.org/developer.php?login=muammar).
-- Mon [Curriculum vitae]({{ site.url }}/cv/).
+- Mon [Curriculum vitae]({{ site.url }}/files/cv/).
 - [Contactez-moi]({{ site.url }}/contact/).
 - [Server]({{ site.url }}/servidor/).
 - [Statistique]({{ site.url }}/awstats/awstats.pl).

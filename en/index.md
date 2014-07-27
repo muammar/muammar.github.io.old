@@ -57,7 +57,7 @@ I will present you the links which I consider the most important:
 - [Pictures]({{ site.url }}/fotos/).
 - [Files]({{ site.url }}/files/).
 - What I do in [Debian](http://qa.debian.org/developer.php?login=muammar).
-- My [CV]({{ site.url }}/cv/).
+- My [CV]({{ site.url }}/files/cv/).
 - [Contact me]({{ site.url }}/contact/).
 - [Server]({{ site.url }}/servidor/).
 - [Statistics]({{ site.url }}/awstats/awstats.pl).

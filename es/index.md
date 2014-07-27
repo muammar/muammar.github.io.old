@@ -51,7 +51,7 @@ A continuación encontrarás los enlaces que considero serían más importantes:
 - [Fotos]({{ site.url }}/fotos/).
 - [Archivos]({{ site.url }}/files/).
 - Lo que hago en [Debian](http://qa.debian.org/developer.php?login=muammar).
-- Mi [hoja de vida]({{ site.url }}/cv/).
+- Mi [hoja de vida]({{ site.url }}/files/cv/).
 - Alguna de las maneras de [contactarme]({{ site.url }}/contact/).
 - [Servidor]({{ site.url }}/servidor/).
 - [Estadísticas]({{ site.url }}/awstats/awstats.pl).
