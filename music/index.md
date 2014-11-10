@@ -4,8 +4,6 @@ fb_comments: 3
 title: Music
 ---
 
-### Interests
-
 I play the classical guitar since I was 13 years old. I studied different
 styles in the guitar including: venezuelan waltz, tango, flamenco, baroque
 music, etc. In the recent years I have been rather inactive, however I started
