@@ -14,8 +14,10 @@ recordings.
 
 ### Music Repertory
 
-- Romance - Anonimo.
-- Variazioni, op. 45 (guitar) c. 1811 - Mauro Giuliani.
+- **Romance** - Anonimo.
+- **Variazioni, op. 45**, (guitar) c. 1811 - Mauro Giuliani.
+- **Fantasia que contrahaze la harpa en la manera de Luduvico**, (guitar) c.
+    1508 -1580 - Alonso Mudarra.
 
 More information soon.
 
