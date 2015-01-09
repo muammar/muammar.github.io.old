@@ -70,5 +70,6 @@ lo que veo, puedes ver [mi canal en Youtube](http://youtube.com/muammarelkhatib)
 - Edith Södergran, "Antología Poética".
 - Júlio César de Mello e Souza, "El Hombre que Calculaba".
 - Franz Kafka, "La metamorfosis".
+- J. R. R. Tolkien, "The Hobbit".
 
  Y otros más pero no he tenido tiempo de agregarlos, o no los recuerdo ya :)

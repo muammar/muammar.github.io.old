@@ -74,6 +74,11 @@ what I watch, you can take a look at [My Youtube Channel](http://youtube.com/mua
 - James C. Hunter, 1999, "La paradoja: un relato sobre la verdadera esencia del liderazgo".
 - Jorge Isaac, "María".
 - Pablo Neruda, "20 poemas de amor y una canción desesperada".
+- Edith Södergran, "Antología Poética".
 - Friedrich Nietzsche, "Thus Spake Zarathustra".
+- Júlio César de Mello e Souza, "El Hombre que Calculaba".
+- Franz Kafka, "La metamorfosis".
+- J. R. R. Tolkien, "The Hobbit".
+
 
 And many more... I'll put them when I have more time..
