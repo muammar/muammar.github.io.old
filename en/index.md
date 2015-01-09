@@ -78,7 +78,7 @@ what I watch, you can take a look at [My Youtube Channel](http://youtube.com/mua
 - Friedrich Nietzsche, "Thus Spake Zarathustra".
 - Júlio César de Mello e Souza, "El Hombre que Calculaba".
 - Franz Kafka, "La metamorfosis".
-- J. R. R. Tolkien, "The Hobbit".
+- JRR Tolkien, "The Hobbit".
 
 
 And many more... I'll put them when I have more time..
