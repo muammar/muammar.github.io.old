@@ -73,6 +73,8 @@ surface.
 
 -  El Khatib M., Bendazzoli G.L., Evangelisti S., Helal W., Leininger T., Tenti L., Angeli C., "Beryllium- Dimer: a Bond based on non-Dynamical Correlation", J. Phys. Chem. A 118, 6664 (2014). DOI: [10.1021/jp503145u](http://dx.doi.org/10.1021/jp503145u)
 
+- El Khatib M., Brea O., Fertitta E., Bendazzoli G.L. , Evangelisti S., Leininger T., Paulus B., "Spin delocalization in hydrogen chains described with the spin-partitioned Total-Position Spread tensor", Theor. Chem. Acc., 134, 1 (2015).  DOI: [10.1007/s00214-015-1625-7](http://dx.doi.org/10.1007/s00214-015-1625-7)
+
 More information soon.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
