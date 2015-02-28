@@ -19,7 +19,7 @@ besoin d'au moins une TTY soit avec links ou soit lynx installés. Si vous
 considérez moche le dessin de mon site web, vous pouvez toujours [cliquer
 ici](./trollface.jpg).
 
-Yes, I hate to put ads, but I need money! :).
+Yes, I hate ads as well, but I need money! :).
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- leaderboardmuammar -->
