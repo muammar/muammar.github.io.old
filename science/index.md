@@ -53,12 +53,6 @@ A python program written by E. Fertitta and myself to build a heisenberg
 hamiltonian matrix, diagonalize it and calculate the  [Position Spread
 tensor](https://en.wikipedia.org/wiki/Total_Position_Spread).
 
-- **Vertex** ([https://github.com/muammar/vertex](https://github.com/muammar/vertex))
-
-This is a very simple program that helps you to fit a parabola from three
-points. This can be useful to determine the minima of a potential energy
-surface.
-
 ### List of publications
 
 1.  El Khatib M., Evangelisti S., Leininger T., Bendazzoli G.L., "A Theoretical Study of Closed Polyacene Structures", Phys. Chem. Chem. Phys., 14, 15666-15676 (2012).  DOI: [10.1039/C2CP42144E](http://dx.doi.org/10.1039/C2CP42144E)
