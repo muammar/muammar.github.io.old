@@ -71,5 +71,6 @@ lo que veo, puedes ver [mi canal en Youtube](http://youtube.com/muammarelkhatib)
 - Júlio César de Mello e Souza, "El Hombre que Calculaba".
 - Franz Kafka, "La metamorfosis".
 - JRR Tolkien, "The Hobbit".
+- Peter J. Feibelman, "A PhD is not enough".
 
  Y otros más pero no he tenido tiempo de agregarlos, o no los recuerdo ya :)

@@ -79,6 +79,7 @@ what I watch, you can take a look at [My Youtube Channel](http://youtube.com/mua
 - Júlio César de Mello e Souza, "El Hombre que Calculaba".
 - Franz Kafka, "La metamorfosis".
 - JRR Tolkien, "The Hobbit".
+- Peter J. Feibelman, "A PhD is not enough".
 
 
 And many more... I'll put them when I have more time..

@@ -77,11 +77,15 @@ Youtube](http://youtube.com/muammarelkhatib)
 
 ### Livres que j'ai lu
 
-- James C. Hunter, 1999, "La paradoja: un relato sobre la verdadera esencia del
-liderazgo".
+- James C. Hunter, 1999, "La paradoja: un relato sobre la verdadera esencia del liderazgo".
 - Jorge Isaac, "María".
 - Pablo Neruda, "20 poemas de amor y una canción desesperada".
+- Edith Södergran, "Antología Poética".
 - Friedrich Nietzsche, "Thus Spake Zarathustra".
+- Júlio César de Mello e Souza, "El Hombre que Calculaba".
+- Franz Kafka, "La metamorfosis".
+- JRR Tolkien, "The Hobbit".
+- Peter J. Feibelman, "A PhD is not enough".
 
 Et beaucoup plus ... Je vais les mettre quand j'aurai plus de temps ..
 
