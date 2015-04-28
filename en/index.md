@@ -6,8 +6,8 @@ title: About
 
 ### About me
 
-If you arrived here I think you should know that my name is Muammar. Talking
-about me I think is not something interesting enough. I might write that I was
+If you arrived here you should know that my name is Muammar. Talking
+about me think is not something interesting enough. I might write that I was
 born on December, 28th. I like the winter, the grey. I have a master in
 Chemistry and I'm doing a PhD in Quantum Chemistry in France. I am used to
 reading and programming in my free time. I enjoy playing the guitar, in fact
@@ -32,16 +32,16 @@ she feels the same. I think that the pain is part of our lives.
 
 If you are still reading at this point so I could say that talking about me
 it's interesting :), but I do prefer to think that you reach to read at this
-point because you didn't have anything else to do :), I stop writing here,
-Ideas are not coming to my mind anymore.
+point because you didn't have anything else to do :), I stop writing,
+ideas are not coming to my mind anymore.
 
 ### About this site
 
 This site contains parts of my life. Generally, topics showed here are referred
 to free software, chemistry, poetry, life, and those stuff that make feel
-happy.Most of the content written here are my personal opinions. I always have
+happy. Most of the content written here are my personal opinions. I always have
 had the need of expressing what I think and this space has been the place to do
-it.
+so.
 
 I guess that your first impression about these pages is that they are full of
 text and there is no images at all. I could assume that you like reading
@@ -80,6 +80,8 @@ what I watch, you can take a look at [My Youtube Channel](http://youtube.com/mua
 - Franz Kafka, "La metamorfosis".
 - JRR Tolkien, "The Hobbit".
 - Peter J. Feibelman, "A PhD is not enough".
-
+- Robert M. Bramson  "Coping with Difficult People: The Proven-Effective Battle
+  Plan That Has Helped Millions Deal with the Troublemakers in Their Lives at
+  Home and at Work".
 
 And many more... I'll put them when I have more time..
