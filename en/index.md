@@ -7,7 +7,7 @@ title: About
 ### About me
 
 If you arrived here you should know that my name is Muammar. Talking
-about me think is not something interesting enough. I might write that I was
+about me, I think is not something interesting enough. I might write that I was
 born on December, 28th. I like the winter, the grey. I have a master in
 Chemistry and I'm doing a PhD in Quantum Chemistry in France. I am used to
 reading and programming in my free time. I enjoy playing the guitar, in fact
