@@ -7,14 +7,17 @@ title: Science
 ### Interests
 
 I am interested in the theory of the electronic structure of atoms and
-molecules. In the framework of my PhD thesis, I am working in the
-metal-insulator transitions in low dimensional systems as well as other
-theoretical studies. I have also put online some posters and slides about the
-work I have done during my PhD [here](http://muammar.me/files/chemistry/).
+molecules. In the framework of my Ph.D. thesis, I was working in the
+characterization of metallic and insulating properties in low dimensional
+systems as well as other theoretical studies. I have also put online some
+posters and slides about the work I have done during my Ph.D.
+[here](http://muammar.me/files/chemistry/).
 
 Part of my work has consisted in method development. We are proposing a new
-indicator called *[Position Spread tensor](https://en.wikipedia.org/wiki/Total_Position_Spread)* that can be used to characterize
-chemical bonds and at the same time monitor the wave functions (Ψ).
+indicator called *[Position Spread
+tensor](https://en.wikipedia.org/wiki/Total_Position_Spread)* that can be used
+to characterize chemical bonds and at the same time monitor the wave functions
+(Ψ).
 
 I have developed expertise in the use of methods based on the wave function
 such as: [Multi-configurational self-consistent
