@@ -3,7 +3,7 @@ title: /home/muammar/
 email: muammar@muammar.me
 description: > # this means to ignore newlines until "baseurl:"
   Muammar El Khatib
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://muammar.me" # the base hostname & protocol for your site
 twitter_username: muammar
 github_username:  muammar
