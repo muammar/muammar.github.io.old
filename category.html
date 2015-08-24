@@ -4,10 +4,6 @@ title: Categories
 permalink: /blog/category/
 ---
 
-<div class="container mtb">
-    <div class="row">
-        <div class="col-lg-8">
-
         <! -- BLOG POSTS LIST -->
         {% for category in site.categories %}{% unless category.first == "blog" or category.first == "project" or category.first == "question" %}
 
@@ -30,6 +26,3 @@ permalink: /blog/category/
         </div><! --/col-lg-8 -->
 
         {% include sidebar.html %}
-
-    </div><! --/row -->
-</div><! --/container -->
