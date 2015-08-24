@@ -111,7 +111,7 @@ la siguiente forma:
 /blog/%year%/%monthnum%/%day%/%postname%/
 ~~~
 
-<img class="aligncenter size-large wp-image-1021" src="http://muammar.me/blog/wp-content/uploads/2015/08/permalink-settings.png" alt="permalink" width="50%" height="50%" />
+<img class="aligncenter size-large wp-image-1021" src="http://muammar.me/blog/wp-content/uploads/2015/08/permalink-settings.png" alt="permalink" width="70%" height="70%" />
 
 Así, los archivos markdown tenían esta información en los permalinks:
 
