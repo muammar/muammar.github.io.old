@@ -60,7 +60,7 @@ jekyll sobre [cómo importar sitios](http://import.jekyllrb.com):
 * Usando un archivo xml
 
 En este método, basta con ir al panel de administración de wordpress,
-y exportar los posts en format xml. Una vez descargados, es posible importar
+y exportar los posts en formato xml. Una vez descargados, es posible importar
 estos posts usando jekyll import:
 
 ~~~
@@ -86,7 +86,7 @@ Instalar el plugin [WordPress to Jekyll
 Exporter](https://wordpress.org/plugins/jekyll-exporter/). Una vez que está
 instalado, una nueva opción dentro de la sección herramientas queda habilitada. Procede a exportar los posts:
 
-<img class="aligncenter size-large wp-image-1021" src="http://muammar.me/blog/wp-content/uploads/2015/08/wp-download.png" alt="works" width="630" height="394" />
+<img class="aligncenter size-large wp-image-1021" src="http://muammar.me/blog/wp-content/uploads/2015/08/wp-download.png" alt="works" />
 
 Dentro del archivo `jekyll-export.zip` encontrarás todos los posts en formato
 markdown dentro un directorio llamado `_posts` y otro llamado  `wp-content` con
@@ -101,7 +101,7 @@ Ejemplo:
 `http://muammar.me/blog`
 
 Y los posts los organizo por */año/mes/día/títulodelpost*. Aquí hay que tener
-cuidado, puesto que el plugin Jekyll exporter, agrega también los permalinks (o
+cuidado, puesto que el plugin Jekyll exporter, se agregan también los permalinks (o
 enlaces permanentes) que hay en wordpress, por lo que es necesario **escoger de
 antemano el tipo de permalink antes de exportar los posts**. En mi caso, tuve
 que cambiar en `Custom structure` la configuración de los permalink a lucir de
@@ -111,7 +111,7 @@ la siguiente forma:
 /blog/%year%/%monthnum%/%day%/%postname%/
 ~~~
 
-<img class="aligncenter size-large wp-image-1021" src="http://muammar.me/blog/wp-content/uploads/2015/08/permalink-settings.png" alt="permalink" width="630" height="394" />
+<img class="aligncenter size-large wp-image-1021" src="http://muammar.me/blog/wp-content/uploads/2015/08/permalink-settings.png" alt="permalink" />
 
 Así, los archivos markdown tenían esta información en los permalinks:
 
@@ -126,6 +126,18 @@ Y finalmente, en `_config.yml`, agregué:
 ~~~
 permalink: /blog/:year/:month/:day/:title/
 ~~~
+
+Finalmente, crea un directorio dentro de la raíz de tu sitio que se llame blog y copia el directorio `wp-content` que generamos con jeyll export en wordpress:
+
+~~~
+$ cd yourname
+
+$ mkdir blog
+
+$ mv /path/to/wp-content blog
+~~~
+
+Esto debería ser suficiente.
 
 Comentarios
 ===========
