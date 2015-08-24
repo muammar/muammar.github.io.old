@@ -111,7 +111,7 @@ la siguiente forma:
 /blog/%year%/%monthnum%/%day%/%postname%/
 ~~~
 
-<img class="aligncenter size-large wp-image-1021" src="http://muammar.me/blog/wp-content/uploads/2015/08/permalink-settings.png" alt="permalink" />
+<img class="aligncenter size-large wp-image-1021" src="http://muammar.me/blog/wp-content/uploads/2015/08/permalink-settings.png" alt="permalink" width="50%" height="50%" />
 
 Así, los archivos markdown tenían esta información en los permalinks:
 
@@ -127,7 +127,8 @@ Y finalmente, en `_config.yml`, agregué:
 permalink: /blog/:year/:month/:day/:title/
 ~~~
 
-Finalmente, crea un directorio dentro de la raíz de tu sitio que se llame blog y copia el directorio `wp-content` que generamos con jeyll export en wordpress:
+Finalmente, crea un directorio dentro de la raíz de tu sitio que se llame blog
+y copia el directorio `wp-content` que generamos con jeyll export en wordpress:
 
 ~~~
 $ cd yourname
