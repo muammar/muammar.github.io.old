@@ -1,6 +1,6 @@
 ---
 title: Open Chrome = Wireless problem in HP 2133?
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2009/04/open-chrome-wireless-problem-in-hp-2133/
 categories:

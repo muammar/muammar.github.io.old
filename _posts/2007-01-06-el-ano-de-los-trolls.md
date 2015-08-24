@@ -1,6 +1,6 @@
 ---
 title: El año de los trolls
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/01/el-ano-de-los-trolls/
 categories:

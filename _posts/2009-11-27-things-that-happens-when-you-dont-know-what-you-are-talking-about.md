@@ -1,6 +1,6 @@
 ---
 title: 'Things that happens when you don&#8217;t know what you are talking about'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2009/11/things-that-happens-when-you-dont-know-what-you-are-talking-about/
 categories:

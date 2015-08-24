@@ -1,6 +1,6 @@
 ---
 title: Migrando a FluxBox
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/11/migrando-a-fluxbox/
 categories:

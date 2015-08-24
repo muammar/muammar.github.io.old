@@ -1,6 +1,6 @@
 ---
 title: Charla acerca de Debian en la URBE.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/01/charla-acerca-de-debian-en-la-urbe/
 categories:

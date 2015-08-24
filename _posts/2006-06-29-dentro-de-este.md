@@ -1,6 +1,6 @@
 ---
 title: 'Dentro de este&#8230;'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/06/dentro-de-este/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: 'Smashing Pumpkins &#8212; Tonight Tonight'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/05/smashing-pumpkins-tonight-tonight/
 categories:

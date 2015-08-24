@@ -1,6 +1,6 @@
 ---
 title: Chris Cornell?
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2009/03/chris-cornell/
 categories:

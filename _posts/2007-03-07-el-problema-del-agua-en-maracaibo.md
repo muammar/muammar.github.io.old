@@ -1,6 +1,6 @@
 ---
 title: El problema del agua en Maracaibo.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/03/el-problema-del-agua-en-maracaibo/
 categories:

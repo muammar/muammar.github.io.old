@@ -1,6 +1,6 @@
 ---
 title: Nueva versión de yacas.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/04/nueva-version-de-yacas-2/
 categories:

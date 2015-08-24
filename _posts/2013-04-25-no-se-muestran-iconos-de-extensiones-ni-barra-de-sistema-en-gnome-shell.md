@@ -1,6 +1,6 @@
 ---
 title: No se muestran iconos de extensiones ni barra de sistema en gnome shell
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2013/04/no-se-muestran-iconos-de-extensiones-ni-barra-de-sistema-en-gnome-shell/
 categories:

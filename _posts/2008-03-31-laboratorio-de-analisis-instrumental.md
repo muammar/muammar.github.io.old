@@ -1,6 +1,6 @@
 ---
 title: Laboratorio de Análisis Instrumental.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2008/03/laboratorio-de-analisis-instrumental/
 categories:

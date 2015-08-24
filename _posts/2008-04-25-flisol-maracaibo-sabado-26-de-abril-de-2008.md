@@ -1,6 +1,6 @@
 ---
 title: 'FLISOL &#8212; Maracaibo (Sábado 26 de Abril de 2008)'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2008/04/flisol-maracaibo-sabado-26-de-abril-de-2008/
 categories:

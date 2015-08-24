@@ -1,6 +1,6 @@
 ---
 title: Por amor a la química cuántica
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/04/por-amor-a-la-quimica-cuantica/
 categories:

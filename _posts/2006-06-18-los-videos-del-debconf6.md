@@ -1,6 +1,6 @@
 ---
 title: Los videos del debconf6
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/06/los-videos-del-debconf6/
 categories:

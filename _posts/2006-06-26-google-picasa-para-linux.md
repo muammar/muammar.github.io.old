@@ -1,6 +1,6 @@
 ---
 title: Google Picasa para Linux
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/06/google-picasa-para-linux/
 categories:

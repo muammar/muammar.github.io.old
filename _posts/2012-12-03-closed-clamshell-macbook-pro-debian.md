@@ -1,6 +1,6 @@
 ---
 title: Closed clamshell macbook pro Debian
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2012/12/closed-clamshell-macbook-pro-debian/
 categories:

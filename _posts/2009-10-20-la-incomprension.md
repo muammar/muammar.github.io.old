@@ -1,6 +1,6 @@
 ---
 title: La incomprensión
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2009/10/la-incomprension/
 categories:

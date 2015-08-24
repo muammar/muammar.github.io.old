@@ -1,6 +1,6 @@
 ---
 title: Happy new year
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2012/01/happy-new-year-2/
 categories:

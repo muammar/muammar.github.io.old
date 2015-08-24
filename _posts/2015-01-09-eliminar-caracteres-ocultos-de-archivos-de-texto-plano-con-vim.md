@@ -1,6 +1,6 @@
 ---
 title: Eliminar caracteres ocultos de archivos de texto plano con vim
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2015/01/eliminar-caracteres-ocultos-de-archivos-de-texto-plano-con-vim/
 categories:

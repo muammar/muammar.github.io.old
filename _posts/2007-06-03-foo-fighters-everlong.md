@@ -1,6 +1,6 @@
 ---
 title: 'Foo Fighters &#8212; Everlong'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/06/foo-fighters-everlong/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Planeta Proyecto Ciencia
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2010/02/planeta-proyecto-ciencia/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: 'Regresiones en Gnome-terminal: The working directory. (1)'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2013/06/regresiones-en-gnome-terminal-the-working-directory-1/
 categories:

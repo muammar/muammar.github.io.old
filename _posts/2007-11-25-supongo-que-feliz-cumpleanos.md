@@ -1,6 +1,6 @@
 ---
 title: 'Supongo que: Feliz Cumpleaños.'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/11/supongo-que-feliz-cumpleanos/
 categories:

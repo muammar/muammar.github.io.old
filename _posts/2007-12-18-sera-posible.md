@@ -1,6 +1,6 @@
 ---
 title: Será posible?
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/12/sera-posible/
 categories:

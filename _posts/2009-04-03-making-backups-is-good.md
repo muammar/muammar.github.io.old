@@ -1,6 +1,6 @@
 ---
 title: Making backups is good
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2009/04/making-backups-is-good/
 categories:

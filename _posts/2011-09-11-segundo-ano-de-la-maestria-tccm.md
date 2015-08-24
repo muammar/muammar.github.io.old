@@ -1,6 +1,6 @@
 ---
 title: Segundo año de la maestría TCCM
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2011/09/segundo-ano-de-la-maestria-tccm/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Estas cuatro paredes
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2014/07/estas-cuatro-paredes/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: 'Radiohead &#8212; Fake Plastic Trees [This one is for you]'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2008/04/radiohead-fake-plastic-trees-this-one-is-for-you/
 categories:

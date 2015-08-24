@@ -1,6 +1,6 @@
 ---
 title: Venezolano se declara culpable de incapacitar un servidor de la USAF
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/06/venezolano-se-declara-culpable-de-incapacitar-un-servidor-de-la-usaf/
 categories:

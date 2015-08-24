@@ -1,6 +1,6 @@
 ---
 title: Cosas que te sorprenden
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/12/cosas-que-te-sorprenden/
 categories:

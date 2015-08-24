@@ -1,6 +1,6 @@
 ---
 title: Hoy es el día
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2011/07/hoy-es-el-dia/
 categories:

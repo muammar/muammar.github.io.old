@@ -1,6 +1,6 @@
 ---
 title: GnuPG y el grupo de firmas (Keysigning Party)
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/04/gnupg-y-el-grupo-de-firmas-keysigning-party/
 categories:

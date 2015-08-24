@@ -1,6 +1,6 @@
 ---
 title: Las oficinas donde hay muchas féminas
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2009/09/las-oficinas-donde-hay-muchas-feminas/
 categories:

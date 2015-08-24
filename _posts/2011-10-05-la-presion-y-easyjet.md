@@ -1,6 +1,6 @@
 ---
 title: La presión y easyjet
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2011/10/la-presion-y-easyjet/
 categories:

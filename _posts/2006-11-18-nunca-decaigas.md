@@ -1,6 +1,6 @@
 ---
 title: 'Nunca decaigas&#8230;'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/11/nunca-decaigas/
 categories:

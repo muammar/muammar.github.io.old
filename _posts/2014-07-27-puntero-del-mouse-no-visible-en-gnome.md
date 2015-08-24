@@ -1,6 +1,6 @@
 ---
 title: Puntero del mouse no visible en gnome
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2014/07/puntero-del-mouse-no-visible-en-gnome/
 categories:

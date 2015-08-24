@@ -1,6 +1,6 @@
 ---
 title: Mis paquetes en Debian.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2011/06/mis-paquetes-en-debian/
 categories:

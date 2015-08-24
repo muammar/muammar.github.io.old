@@ -1,6 +1,6 @@
 ---
 title: Pensamientos Orientales.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/09/pensamientos-orientales/
 categories:

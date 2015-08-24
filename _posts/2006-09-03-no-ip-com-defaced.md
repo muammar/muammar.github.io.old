@@ -1,6 +1,6 @@
 ---
 title: no-ip.com defaced.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/09/no-ip-com-defaced/
 categories:

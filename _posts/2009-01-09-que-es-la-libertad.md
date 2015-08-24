@@ -1,6 +1,6 @@
 ---
 title: Qué es la Libertad?
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2009/01/que-es-la-libertad/
 categories:

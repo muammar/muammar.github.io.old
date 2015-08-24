@@ -1,6 +1,6 @@
 ---
 title: Te amo y sé que lo sabes
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/03/te-amo-y-se-que-lo-sabes/
 categories:

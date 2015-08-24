@@ -1,6 +1,6 @@
 ---
 title: Mi sticker Debian en la pared
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/12/mi-sticker-debian-en-la-pared/
 categories:

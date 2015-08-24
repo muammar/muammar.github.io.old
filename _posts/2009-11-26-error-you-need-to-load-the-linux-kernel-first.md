@@ -1,6 +1,6 @@
 ---
 title: 'error: you need to load the linux kernel first'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2009/11/error-you-need-to-load-the-linux-kernel-first/
 categories:

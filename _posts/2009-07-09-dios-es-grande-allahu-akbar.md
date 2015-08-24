@@ -1,6 +1,6 @@
 ---
 title: Dios es grande (Allahu Akbar)
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2009/07/dios-es-grande-allahu-akbar/
 categories:

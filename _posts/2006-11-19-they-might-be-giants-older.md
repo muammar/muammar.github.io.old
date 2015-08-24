@@ -1,6 +1,6 @@
 ---
 title: 'They Might Be Giants &#8211; Older'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/11/they-might-be-giants-older/
 categories:

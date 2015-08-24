@@ -1,6 +1,6 @@
 ---
 title: Violencia hacia los animales
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/10/violencia-hacia-los-animales/
 categories:

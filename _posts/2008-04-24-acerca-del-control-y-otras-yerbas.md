@@ -1,6 +1,6 @@
 ---
 title: Acerca del control y otras yerbas.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2008/04/acerca-del-control-y-otras-yerbas/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Comment se rendre à IKEA sans voiture si vous habitez à Toulouse ?
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2011/08/comment-se-rendre-a-ikea-sans-voiture-si-vous-habitez-a-toulouse/
 categories:

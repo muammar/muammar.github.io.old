@@ -1,6 +1,6 @@
 ---
 title: ¿ Qué tan nerd soy?
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/01/%c2%bf-que-tan-nerd-soy/
 categories:

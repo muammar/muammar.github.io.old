@@ -1,6 +1,6 @@
 ---
 title: Google Chrome in Debian
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2009/06/google-chrome-in-debian/
 categories:

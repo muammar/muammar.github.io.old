@@ -1,6 +1,6 @@
 ---
 title: ¿Cómo vi el lanzamiento de Google Buzz?
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2010/02/%c2%bfcomo-vi-el-lanzamiento-de-google-buzz/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Nuevas funcionalidad de Gmail
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2008/11/nuevas-funcionalidad-de-gmail/
 categories:

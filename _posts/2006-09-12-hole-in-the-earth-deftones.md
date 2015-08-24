@@ -1,6 +1,6 @@
 ---
 title: 'Hole In The Earth &#8211; Deftones'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/09/hole-in-the-earth-deftones/
 categories:

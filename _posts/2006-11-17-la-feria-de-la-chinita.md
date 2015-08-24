@@ -1,6 +1,6 @@
 ---
 title: La feria de la Chinita
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/11/la-feria-de-la-chinita/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: 'La mentalidad de mi país&#8230;'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2009/06/la-mentalidad-de-mi-pais/
 categories:

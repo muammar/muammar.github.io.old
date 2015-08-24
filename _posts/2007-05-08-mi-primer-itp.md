@@ -1,6 +1,6 @@
 ---
 title: Mi primer ITP!
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/05/mi-primer-itp/
 categories:

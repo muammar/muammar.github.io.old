@@ -1,6 +1,6 @@
 ---
 title: Open Lan en casa de Manu
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/06/open-lan-en-casa-de-manu/
 categories:

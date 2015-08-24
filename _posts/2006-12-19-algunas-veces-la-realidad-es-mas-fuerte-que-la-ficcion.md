@@ -1,6 +1,6 @@
 ---
 title: Algunas veces la realidad es más fuerte que la ficción.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/12/algunas-veces-la-realidad-es-mas-fuerte-que-la-ficcion/
 categories:

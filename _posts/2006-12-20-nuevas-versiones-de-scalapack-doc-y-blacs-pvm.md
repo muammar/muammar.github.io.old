@@ -1,6 +1,6 @@
 ---
 title: Nuevas versiones de scalapack-doc y blacs-pvm
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/12/nuevas-versiones-de-scalapack-doc-y-blacs-pvm/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Pleito de Amar y Querer / Andres Eloy Blanco
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2009/08/pleito-de-amar-y-querer-andres-eloy-blanco/
 categories:

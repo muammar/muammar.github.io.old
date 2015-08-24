@@ -1,6 +1,6 @@
 ---
 title: source-o-matic para Ubuntu
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/04/source-o-matic-para-ubuntu/
 categories:

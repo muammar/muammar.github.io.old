@@ -1,6 +1,6 @@
 ---
 title: El problema con Dunc-Tank
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/10/el-problema-con-dunc-tank/
 categories:

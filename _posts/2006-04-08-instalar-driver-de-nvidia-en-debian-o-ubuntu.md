@@ -1,6 +1,6 @@
 ---
 title: Instalar driver de nvidia en debian o ubuntu
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/04/instalar-driver-de-nvidia-en-debian-o-ubuntu/
 categories:

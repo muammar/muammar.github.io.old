@@ -1,6 +1,6 @@
 ---
 title: 'Debian Lenny might be released  this month'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2009/02/debian-lenny-might-be-released-this-month/
 categories:

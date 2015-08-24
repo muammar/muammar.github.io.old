@@ -1,6 +1,6 @@
 ---
 title: Contáctame.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2009/06/contactame/
 categories:

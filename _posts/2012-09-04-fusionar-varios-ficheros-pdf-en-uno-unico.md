@@ -1,6 +1,6 @@
 ---
 title: Fusionar varios ficheros PDF en uno único
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2012/09/fusionar-varios-ficheros-pdf-en-uno-unico/
 categories:

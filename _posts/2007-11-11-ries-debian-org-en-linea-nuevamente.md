@@ -1,6 +1,6 @@
 ---
 title: ries.debian.org en línea nuevamente.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/11/ries-debian-org-en-linea-nuevamente/
 categories:

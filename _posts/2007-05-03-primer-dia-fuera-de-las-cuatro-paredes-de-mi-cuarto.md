@@ -1,6 +1,6 @@
 ---
 title: Primer día fuera de las cuatro paredes de mi cuarto.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/05/primer-dia-fuera-de-las-cuatro-paredes-de-mi-cuarto/
 categories:

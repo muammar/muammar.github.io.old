@@ -1,6 +1,6 @@
 ---
 title: 'INTEVEP aquí voy&#8230;'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/05/intevep-aqui-voy/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: 'Se acerca el otoño&#8230;'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/04/se-acerca-el-otono/
 categories:

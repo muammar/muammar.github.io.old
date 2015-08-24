@@ -1,6 +1,6 @@
 ---
 title: Desde ayer entró en vigencia el decreto 3.390 de software libre en el Zulia
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/05/desde-ayer-entro-en-vigencia-el-decreto-3-390-de-software-libre-en-el-zulia/
 categories:

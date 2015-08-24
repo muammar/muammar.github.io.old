@@ -1,6 +1,6 @@
 ---
 title: Imprimir desde linux a una impresora en red en windows.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/04/imprimir-desde-linux-a-una-impresora-en-red-en-windows/
 categories:

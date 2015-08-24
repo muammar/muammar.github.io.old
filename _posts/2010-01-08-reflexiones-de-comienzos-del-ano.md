@@ -1,6 +1,6 @@
 ---
 title: Reflexiones de comienzos del año
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2010/01/reflexiones-de-comienzos-del-ano/
 categories:

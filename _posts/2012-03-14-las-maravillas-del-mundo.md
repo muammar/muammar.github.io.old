@@ -1,6 +1,6 @@
 ---
 title: Las maravillas del mundo
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2012/03/las-maravillas-del-mundo/
 categories:

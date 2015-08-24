@@ -1,6 +1,6 @@
 ---
 title: Palabras ciertas
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2008/12/palabras-ciertas/
 categories:

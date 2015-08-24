@@ -1,6 +1,6 @@
 ---
 title: Versión de 5 years de David Bowie por Placebo
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2008/09/version-de-5-years-de-david-bowie-por-placebo/
 categories:

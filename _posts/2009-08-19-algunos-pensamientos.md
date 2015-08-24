@@ -1,6 +1,6 @@
 ---
 title: Algunos pensamientos
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2009/08/algunos-pensamientos/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Empaquetando Scalapack con implementación basada en OpenMPI
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/11/empaquetando-scalapack-con-implementacion-basada-en-openmpi/
 categories:

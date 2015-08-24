@@ -1,6 +1,6 @@
 ---
 title: ries.debian.org AKA ftp-master.debian.org presentando problemas de Hardware
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/11/ries-debian-org-aka-ftp-master-debian-org-presentando-problemas-de-hardware/
 categories:

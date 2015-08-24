@@ -1,6 +1,6 @@
 ---
 title: Acerca del tiempo
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2012/02/acerca-del-tiempo/
 categories:

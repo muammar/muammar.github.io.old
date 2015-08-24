@@ -1,6 +1,6 @@
 ---
 title: 'Apago tu voz&#8230;'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/03/apago-tu-voz/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Funny Political Propaganda.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2009/02/funny-political-propaganda/
 categories:

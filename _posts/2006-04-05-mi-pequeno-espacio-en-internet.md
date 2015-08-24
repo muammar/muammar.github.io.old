@@ -1,6 +1,6 @@
 ---
 title: Mi pequeño espacio en internet
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/04/mi-pequeno-espacio-en-internet/
 categories:

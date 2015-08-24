@@ -1,6 +1,6 @@
 ---
 title: 'Placebo &#8211; Follow the cops back home'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/01/placebo-follow-the-cops-back-home/
 categories:

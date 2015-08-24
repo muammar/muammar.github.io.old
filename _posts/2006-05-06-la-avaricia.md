@@ -1,6 +1,6 @@
 ---
 title: La avaricia
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/05/la-avaricia/
 categories:

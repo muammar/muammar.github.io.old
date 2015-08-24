@@ -1,6 +1,6 @@
 ---
 title: Etiqueta y Buenos Modales en una Fiesta de Firmado de Llaves
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/06/etiqueta-y-buenos-modales-en-una-fiesta-de-firmado-de-llaves/
 categories:

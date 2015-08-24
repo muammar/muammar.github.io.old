@@ -1,6 +1,6 @@
 ---
 title: 'Placebo &#8212; Ask for answers'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/05/placebo-ask-for-answers/
 categories:

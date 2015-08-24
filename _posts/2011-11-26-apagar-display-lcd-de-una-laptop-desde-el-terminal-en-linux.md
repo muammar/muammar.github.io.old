@@ -1,6 +1,6 @@
 ---
 title: Apagar Display LCD de una laptop desde el terminal en Linux
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2011/11/apagar-display-lcd-de-una-laptop-desde-el-terminal-en-linux/
 categories:

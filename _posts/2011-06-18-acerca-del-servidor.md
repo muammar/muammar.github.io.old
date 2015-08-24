@@ -1,6 +1,6 @@
 ---
 title: Acerca del servidor.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2011/06/acerca-del-servidor/
 categories:

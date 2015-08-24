@@ -1,6 +1,6 @@
 ---
 title: La comunidad del software libre y nuestra nocividad
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2011/10/lacomunidaddelsoftwarelibrey-nuestra-nocividad/
 categories:

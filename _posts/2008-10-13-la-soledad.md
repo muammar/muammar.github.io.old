@@ -1,6 +1,6 @@
 ---
 title: La soledad
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2008/10/la-soledad/
 categories:

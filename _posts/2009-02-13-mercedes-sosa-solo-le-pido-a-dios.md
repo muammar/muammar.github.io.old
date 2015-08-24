@@ -1,6 +1,6 @@
 ---
 title: 'Mercedes Sosa &#8212; Solo le Pido a Dios'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2009/02/mercedes-sosa-solo-le-pido-a-dios/
 categories:

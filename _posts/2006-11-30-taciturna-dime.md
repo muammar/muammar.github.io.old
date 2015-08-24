@@ -1,6 +1,6 @@
 ---
 title: 'Taciturna &#8211; Dime'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/11/taciturna-dime/
 categories:

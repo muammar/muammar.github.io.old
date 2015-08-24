@@ -1,6 +1,6 @@
 ---
 title: Compra de dominio
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/05/compra-de-dominio/
 categories:

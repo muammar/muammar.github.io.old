@@ -1,6 +1,6 @@
 ---
 title: Problemas en la facultad de Química de La Universidad del Zulia.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/11/problemas-en-la-facultad-de-quimica-de-la-universidad-del-zulia/
 categories:

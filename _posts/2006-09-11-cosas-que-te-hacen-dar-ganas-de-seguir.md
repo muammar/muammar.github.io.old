@@ -1,6 +1,6 @@
 ---
 title: Cosas que te hacen dar ganas de seguir..
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/09/cosas-que-te-hacen-dar-ganas-de-seguir/
 categories:

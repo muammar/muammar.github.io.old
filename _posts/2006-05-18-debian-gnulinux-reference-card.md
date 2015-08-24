@@ -1,6 +1,6 @@
 ---
 title: Debian GNU/Linux Reference Card
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/05/debian-gnulinux-reference-card/
 categories:

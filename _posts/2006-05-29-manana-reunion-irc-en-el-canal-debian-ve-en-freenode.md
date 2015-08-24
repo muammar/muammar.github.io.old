@@ -1,6 +1,6 @@
 ---
 title: 'Mañana reunión  IRC en el canal  #debian-ve en FreeNode'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/05/manana-reunion-irc-en-el-canal-debian-ve-en-freenode/
 categories:

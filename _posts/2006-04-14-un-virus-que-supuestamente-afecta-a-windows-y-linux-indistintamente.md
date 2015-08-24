@@ -1,6 +1,6 @@
 ---
 title: Un virus que supuestamente afecta a windows y linux indistintamente.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/04/un-virus-que-supuestamente-afecta-a-windows-y-linux-indistintamente/
 categories:

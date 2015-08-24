@@ -1,6 +1,6 @@
 ---
 title: Instalar Debian en Macbook Pro 8,1 2011
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2011/08/instalar-debian-en-macbook-pro-81-2011/
 categories:

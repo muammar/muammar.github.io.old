@@ -1,6 +1,6 @@
 ---
 title: '10  buenas razones para usar debian.'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/09/10-buenas-razones-para-usar-debian/
 categories:

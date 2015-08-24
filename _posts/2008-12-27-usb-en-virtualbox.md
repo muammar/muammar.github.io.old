@@ -1,6 +1,6 @@
 ---
 title: USB en VirtualBox.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2008/12/usb-en-virtualbox/
 categories:

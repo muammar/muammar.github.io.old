@@ -1,6 +1,6 @@
 ---
 title: Installing Adobe Air in Debian AMD 64 (TweetDeck can be used)
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2009/12/installing-adobe-air-in-debian-amd-64-tweetdeck-can-be-used/
 categories:

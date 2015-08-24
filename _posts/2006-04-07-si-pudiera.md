@@ -1,6 +1,6 @@
 ---
 title: 'Si pudiera&#8230;'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/04/si-pudiera/
 categories:

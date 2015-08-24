@@ -1,6 +1,6 @@
 ---
 title: Te extraño.. (a quien no puedo ver)
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/04/te-extrano-a-quien-no-puedo-ver/
 categories:

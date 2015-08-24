@@ -1,6 +1,6 @@
 ---
 title: Visita a INTEVEP
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/02/visita-a-intevep/
 categories:

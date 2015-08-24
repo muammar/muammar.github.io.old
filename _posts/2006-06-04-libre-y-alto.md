@@ -1,6 +1,6 @@
 ---
 title: 'Libre y alto&#8230;'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/06/libre-y-alto/
 categories:

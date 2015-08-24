@@ -1,6 +1,6 @@
 ---
 title: ¡¡¡Nuevas fotos!!!
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/06/%c2%a1%c2%a1%c2%a1nuevas-fotos/
 categories:

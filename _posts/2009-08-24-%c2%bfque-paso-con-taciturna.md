@@ -1,6 +1,6 @@
 ---
 title: ¿Qué pasó con Taciturna?
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2009/08/%c2%bfque-paso-con-taciturna/
 categories:

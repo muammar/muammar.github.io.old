@@ -1,6 +1,6 @@
 ---
 title: Brillo de pantalla LCD en toshiba satellite m115-s3144
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2008/09/brillo-de-pantalla-lcd-en-toshiba-satellite-m115-s3144/
 categories:

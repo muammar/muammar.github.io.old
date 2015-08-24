@@ -1,6 +1,6 @@
 ---
 title: 'Mutt &#8220;No Authenticators Available&#8221; Mac OS X Yosemite'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2014/12/mutt-no-authenticators-available-mac-os-x-yosemite/
 categories:

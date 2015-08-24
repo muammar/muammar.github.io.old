@@ -1,6 +1,6 @@
 ---
 title: Limitaciones. Cosas de la vida, no?
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2008/09/limitaciones-cosas-de-la-vida-no/
 categories:

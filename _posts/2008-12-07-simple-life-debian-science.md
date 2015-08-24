@@ -1,6 +1,6 @@
 ---
 title: Simple Life + Debian + Science
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2008/12/simple-life-debian-science/
 categories:

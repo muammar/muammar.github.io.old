@@ -1,6 +1,6 @@
 ---
 title: De nuevo en línea (Cosas que han pasado y cosas por hacer)
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2008/03/de-nuevo-en-linea-cosas-que-han-pasado-y-cosas-por-hacer/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: 'tcltls &#8212; The TLS OpenSSL extension to Tcl'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/04/tcltls-the-tls-openssl-extension-to-tcl/
 categories:

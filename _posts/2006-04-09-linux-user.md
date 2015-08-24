@@ -1,6 +1,6 @@
 ---
 title: Linux user
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/04/linux-user/
 categories:

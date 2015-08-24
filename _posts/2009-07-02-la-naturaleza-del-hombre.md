@@ -1,6 +1,6 @@
 ---
 title: La naturaleza del hombre
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2009/07/la-naturaleza-del-hombre/
 categories:

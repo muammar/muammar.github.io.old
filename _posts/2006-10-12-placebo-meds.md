@@ -1,6 +1,6 @@
 ---
 title: 'Placebo &#8211; Meds'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/10/placebo-meds/
 categories:

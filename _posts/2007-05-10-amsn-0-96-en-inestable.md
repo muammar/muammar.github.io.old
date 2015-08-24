@@ -1,6 +1,6 @@
 ---
 title: amsn 0.96 en inestable.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/05/amsn-0-96-en-inestable/
 categories:

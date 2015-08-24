@@ -1,6 +1,6 @@
 ---
 title: ¿Cómo verificar contenido entre dos directorios?
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2012/02/como-verificar-contenido-entre-dos-directorios/
 categories:

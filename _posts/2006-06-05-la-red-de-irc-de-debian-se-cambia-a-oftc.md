@@ -1,6 +1,6 @@
 ---
 title: La red de IRC de Debian se cambia a OFTC
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/06/la-red-de-irc-de-debian-se-cambia-a-oftc/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: About our ways of doing science
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2013/12/about-our-ways-of-doing-science/
 categories:

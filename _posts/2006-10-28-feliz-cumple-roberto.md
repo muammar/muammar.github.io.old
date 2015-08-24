@@ -1,6 +1,6 @@
 ---
 title: Feliz cumple Roberto
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/10/feliz-cumple-roberto/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Aceleración para ATI en debian.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/04/aceleracion-para-ati-en-debian/
 categories:

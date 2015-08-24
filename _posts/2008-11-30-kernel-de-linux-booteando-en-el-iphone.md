@@ -1,6 +1,6 @@
 ---
 title: Kernel de Linux booteando en el Iphone
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2008/11/kernel-de-linux-booteando-en-el-iphone/
 categories:

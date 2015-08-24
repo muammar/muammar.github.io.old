@@ -1,6 +1,6 @@
 ---
 title: Morir un poco
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/11/morir-un-poco/
 categories:

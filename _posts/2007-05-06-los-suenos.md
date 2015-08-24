@@ -1,6 +1,6 @@
 ---
 title: Los sueños
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/05/los-suenos/
 categories:

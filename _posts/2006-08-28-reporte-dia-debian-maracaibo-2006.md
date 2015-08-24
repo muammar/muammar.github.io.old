@@ -1,6 +1,6 @@
 ---
 title: Reporte Día Debian (Maracaibo 2006)
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/08/reporte-dia-debian-maracaibo-2006/
 categories:

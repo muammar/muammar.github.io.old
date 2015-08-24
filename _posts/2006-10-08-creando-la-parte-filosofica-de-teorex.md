@@ -1,6 +1,6 @@
 ---
 title: Creando la parte filosófica de Teorex.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/10/creando-la-parte-filosofica-de-teorex/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: 'Un día como hoy&#8230;'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/12/un-dia-como-hoy/
 categories:

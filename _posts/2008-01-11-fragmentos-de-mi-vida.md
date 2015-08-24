@@ -1,6 +1,6 @@
 ---
 title: Fragmentos de mi vida
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2008/01/fragmentos-de-mi-vida/
 categories:

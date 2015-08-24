@@ -1,6 +1,6 @@
 ---
 title: 'Fontconfig warning: &#8220;/etc/fonts/conf.d/50-user.conf&#8221;, line 9'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2013/07/fontconfig-warning-etcfontsconf-d50-user-conf-line-9/
 categories:

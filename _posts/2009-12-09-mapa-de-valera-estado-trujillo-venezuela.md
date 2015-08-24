@@ -1,6 +1,6 @@
 ---
 title: Mapa de Valera, Estado Trujillo, Venezuela.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2009/12/mapa-de-valera-estado-trujillo-venezuela/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: 'Si esto fuera&#8230;'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2009/05/si-esto-fuera/
 categories:

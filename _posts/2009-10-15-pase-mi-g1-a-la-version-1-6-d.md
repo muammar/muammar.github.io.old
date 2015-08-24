@@ -1,6 +1,6 @@
 ---
 title: Pasé mi G1 a la versión 1.6 :D
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2009/10/pase-mi-g1-a-la-version-1-6-d/
 categories:

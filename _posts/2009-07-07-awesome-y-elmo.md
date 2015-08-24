@@ -1,6 +1,6 @@
 ---
 title: Awesome y Elmo.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2009/07/awesome-y-elmo/
 categories:

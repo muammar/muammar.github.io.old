@@ -1,6 +1,6 @@
 ---
 title: 'Taciturna &#8212; Señales De Humo'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2008/05/taciturna-senales-de-humo/
 categories:

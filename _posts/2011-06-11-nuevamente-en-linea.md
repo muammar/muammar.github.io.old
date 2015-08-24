@@ -1,6 +1,6 @@
 ---
 title: Nuevamente en línea
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2011/06/nuevamente-en-linea/
 categories:

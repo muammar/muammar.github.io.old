@@ -1,6 +1,6 @@
 ---
 title: I am getting older
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2009/12/i-am-getting-older/
 categories:

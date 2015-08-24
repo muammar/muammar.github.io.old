@@ -1,6 +1,6 @@
 ---
 title: ¡ Felices Fiestas!
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/12/%c2%a1-felices-fiestas/
 categories:

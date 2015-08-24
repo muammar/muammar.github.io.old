@@ -1,6 +1,6 @@
 ---
 title: 'Xlib: No protocol specified'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2013/01/xlib-no-protocol-specified/
 categories:

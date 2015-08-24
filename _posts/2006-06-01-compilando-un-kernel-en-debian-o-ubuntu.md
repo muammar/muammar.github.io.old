@@ -1,6 +1,6 @@
 ---
 title: Compilando un kernel en debian o ubuntu
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/06/compilando-un-kernel-en-debian-o-ubuntu/
 categories:

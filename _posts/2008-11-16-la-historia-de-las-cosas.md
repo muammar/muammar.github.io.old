@@ -1,6 +1,6 @@
 ---
 title: La historia de las cosas
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2008/11/la-historia-de-las-cosas/
 categories:

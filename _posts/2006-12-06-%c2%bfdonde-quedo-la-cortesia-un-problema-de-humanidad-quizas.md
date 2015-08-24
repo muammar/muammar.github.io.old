@@ -1,6 +1,6 @@
 ---
 title: '¿Dónde quedó la cortesía? Un problema de humanidad quizás&#8230;'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/12/%c2%bfdonde-quedo-la-cortesia-un-problema-de-humanidad-quizas/
 categories:

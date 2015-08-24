@@ -1,6 +1,6 @@
 ---
 title: 'Un día en el laboratorio&#8230;'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/05/un-dia-en-el-laboratorio/
 categories:

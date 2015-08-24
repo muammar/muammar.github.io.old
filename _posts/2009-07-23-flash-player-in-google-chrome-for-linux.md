@@ -1,6 +1,6 @@
 ---
 title: Flash player in Google Chrome for Linux
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2009/07/flash-player-in-google-chrome-for-linux/
 categories:

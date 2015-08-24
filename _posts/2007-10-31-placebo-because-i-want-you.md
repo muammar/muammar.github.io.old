@@ -1,6 +1,6 @@
 ---
 title: 'Placebo &#8212; Because I want you'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/10/placebo-because-i-want-you/
 categories:

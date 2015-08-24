@@ -1,6 +1,6 @@
 ---
 title: 'mtpaint &#8212; painting program to create pixel art'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/04/mtpaint-painting-program-to-create-pixel-art/
 categories:

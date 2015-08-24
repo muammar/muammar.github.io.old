@@ -1,6 +1,6 @@
 ---
 title: Envolver texto a 80 caracteres en VIM (wrap)
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2011/12/envolver-texto-a-80-caracteres-en-vim-wrap/
 categories:

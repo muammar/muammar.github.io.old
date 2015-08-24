@@ -1,6 +1,6 @@
 ---
 title: Richard Stallman dice no a ATI.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/05/richard-stallman-dice-no-a-ati/
 categories:

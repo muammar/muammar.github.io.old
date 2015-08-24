@@ -1,6 +1,6 @@
 ---
 title: Acerca de las pequeñas cosas. Volver a ver.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2012/03/acerca-de-las-pequenas-cosas-volver-a-ver/
 categories:

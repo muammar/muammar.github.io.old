@@ -1,6 +1,6 @@
 ---
 title: Microsoft decide que Windows sea compatible con GNU/Linux
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/04/microsoft-decide-que-windows-sea-compatible-con-gnulinux/
 categories:

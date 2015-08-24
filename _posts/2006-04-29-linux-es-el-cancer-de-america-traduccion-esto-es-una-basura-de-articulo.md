@@ -1,6 +1,6 @@
 ---
 title: 'Linux es el cancer de América (traducción) [Esto es una basura de artículo]'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/04/linux-es-el-cancer-de-america-traduccion-esto-es-una-basura-de-articulo/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Un fragmento de mi vida
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/12/un-fragmento-de-mi-vida/
 categories:

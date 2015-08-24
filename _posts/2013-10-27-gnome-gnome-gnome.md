@@ -1,6 +1,6 @@
 ---
 title: 'Gnome, gnome, gnome&#8230;'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2013/10/gnome-gnome-gnome/
 categories:

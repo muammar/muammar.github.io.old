@@ -1,6 +1,6 @@
 ---
 title: Silicon Graphics se declara en bancarrota.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/05/silicon-graphics-se-declara-en-bancarrota/
 categories:

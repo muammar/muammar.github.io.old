@@ -1,6 +1,6 @@
 ---
 title: Ya se puede hacer shipit para ubuntu dapper 6.06
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/05/ya-se-puede-hacer-shipit-para-ubuntu-dapper-6-06/
 categories:

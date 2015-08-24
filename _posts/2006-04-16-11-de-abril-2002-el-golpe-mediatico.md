@@ -1,6 +1,6 @@
 ---
 title: 11 de abril 2002. El golpe mediático.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/04/11-de-abril-2002-el-golpe-mediatico/
 categories:

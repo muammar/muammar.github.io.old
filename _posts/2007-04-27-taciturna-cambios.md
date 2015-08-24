@@ -1,6 +1,6 @@
 ---
 title: 'Taciturna &#8211; cambios'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/04/taciturna-cambios/
 categories:

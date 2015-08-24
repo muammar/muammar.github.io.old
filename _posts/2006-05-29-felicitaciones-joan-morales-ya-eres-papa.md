@@ -1,6 +1,6 @@
 ---
 title: Felicitaciones Joan Morales ya eres papá
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/05/felicitaciones-joan-morales-ya-eres-papa/
 categories:

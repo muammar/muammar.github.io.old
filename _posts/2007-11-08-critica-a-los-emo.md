@@ -1,6 +1,6 @@
 ---
 title: Crítica a los emo
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/11/critica-a-los-emo/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Acerca de la confianza
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2008/01/acerca-de-la-confianza/
 categories:

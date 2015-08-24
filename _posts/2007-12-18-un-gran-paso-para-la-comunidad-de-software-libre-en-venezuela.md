@@ -1,6 +1,6 @@
 ---
 title: Un gran paso para la comunidad de Software Libre en Venezuela.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/12/un-gran-paso-para-la-comunidad-de-software-libre-en-venezuela/
 categories:

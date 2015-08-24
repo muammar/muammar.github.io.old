@@ -1,6 +1,6 @@
 ---
 title: Usuario del día en http://spin.fh-bielefeld.de
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/09/usuario-del-dia-en-httpspin-fh-bielefeld-de/
 categories:

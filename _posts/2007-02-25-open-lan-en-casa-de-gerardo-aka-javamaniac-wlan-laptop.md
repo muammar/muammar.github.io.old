@@ -1,6 +1,6 @@
 ---
 title: 'Open Lan en casa de Gerardo aka javamaniac (wlan &#038; laptop)'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/02/open-lan-en-casa-de-gerardo-aka-javamaniac-wlan-laptop/
 categories:

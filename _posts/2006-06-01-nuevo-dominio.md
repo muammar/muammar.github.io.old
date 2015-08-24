@@ -1,6 +1,6 @@
 ---
 title: Nuevo dominio.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/06/nuevo-dominio/
 categories:

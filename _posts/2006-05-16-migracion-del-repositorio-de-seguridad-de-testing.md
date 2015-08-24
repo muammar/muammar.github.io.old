@@ -1,6 +1,6 @@
 ---
 title: Migración del repositorio de seguridad de Testing
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/05/migracion-del-repositorio-de-seguridad-de-testing/
 categories:

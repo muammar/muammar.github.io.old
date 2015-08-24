@@ -1,6 +1,6 @@
 ---
 title: Mi galería de fotos
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/04/mi-galeria-de-fotos/
 categories:

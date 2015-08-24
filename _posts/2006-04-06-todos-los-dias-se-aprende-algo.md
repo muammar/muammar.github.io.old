@@ -1,6 +1,6 @@
 ---
 title: 'Todos los días se aprende algo&#8230;'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/04/todos-los-dias-se-aprende-algo/
 categories:

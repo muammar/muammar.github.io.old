@@ -1,6 +1,6 @@
 ---
 title: Grito en silencio
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2013/05/grito-en-silencio/
 categories:

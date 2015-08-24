@@ -1,6 +1,6 @@
 ---
 title: 'Smashing Pumpkins &#8217;33&#8217; Live Rock AM Ring &#8217;07'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/11/smashing-pumpkins-33-live-rock-am-ring-07/
 categories:

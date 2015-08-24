@@ -1,6 +1,6 @@
 ---
 title: 'Ojalá&#8230; [Para alguien que no le importa]'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/11/ojala-para-alguien-que-no-le-importa/
 categories:

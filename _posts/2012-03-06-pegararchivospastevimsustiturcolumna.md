@@ -1,6 +1,6 @@
 ---
 title: Pegar contenido de dos archivos con paste. Utilizar VIM para sustituir selección de una columna
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2012/03/pegararchivospastevimsustiturcolumna/
 categories:

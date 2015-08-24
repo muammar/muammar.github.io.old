@@ -1,6 +1,6 @@
 ---
 title: Deezer or Spotify ?
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2013/01/deezer-or-spotify/
 categories:

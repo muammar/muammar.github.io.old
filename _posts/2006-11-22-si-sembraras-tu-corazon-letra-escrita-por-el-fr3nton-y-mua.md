@@ -1,6 +1,6 @@
 ---
 title: Si sembraras tu corazón (Letra escrita por el fr3ntón y mUa)
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/11/si-sembraras-tu-corazon-letra-escrita-por-el-fr3nton-y-mua/
 categories:

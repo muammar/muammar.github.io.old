@@ -1,6 +1,6 @@
 ---
 title: Primera Mini-Conferencia Debian de Colombia.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/05/primera-mini-conferencia-debian-de-colombia/
 categories:

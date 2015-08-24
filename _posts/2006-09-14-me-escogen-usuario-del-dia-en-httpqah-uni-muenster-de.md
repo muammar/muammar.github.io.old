@@ -1,6 +1,6 @@
 ---
 title: Me escogen usuario del día en http://qah.uni-muenster.de/
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/09/me-escogen-usuario-del-dia-en-httpqah-uni-muenster-de/
 categories:

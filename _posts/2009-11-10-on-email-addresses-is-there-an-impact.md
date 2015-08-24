@@ -1,6 +1,6 @@
 ---
 title: On email addresses. Is there an impact?
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2009/11/on-email-addresses-is-there-an-impact/
 categories:

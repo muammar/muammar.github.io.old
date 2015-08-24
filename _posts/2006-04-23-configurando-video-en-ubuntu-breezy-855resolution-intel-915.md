@@ -1,6 +1,6 @@
 ---
 title: Configurando video en ubuntu breezy. 855resolution (Intel 915)
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/04/configurando-video-en-ubuntu-breezy-855resolution-intel-915/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: El lado oscuro.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/12/el-lado-oscuro/
 categories:

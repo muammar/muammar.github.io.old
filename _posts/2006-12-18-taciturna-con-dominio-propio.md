@@ -1,6 +1,6 @@
 ---
 title: Taciturna con dominio propio.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/12/taciturna-con-dominio-propio/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Avalancha de pensamientos..
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/10/avalancha-de-pensamientos/
 categories:

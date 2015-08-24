@@ -1,6 +1,6 @@
 ---
 title: Para el Pyro
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2009/05/para-el-pyro/
 categories:

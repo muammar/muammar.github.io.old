@@ -1,6 +1,6 @@
 ---
 title: Cursos gracias a esfuerzos entre LAFT y Teorex. :-)
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/10/cursos-gracias-a-esfuerzos-entre-laft-y-teorex/
 categories:

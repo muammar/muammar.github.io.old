@@ -1,6 +1,6 @@
 ---
 title: Orquídeas
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/01/orquideas/
 categories:

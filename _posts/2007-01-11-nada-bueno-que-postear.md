@@ -1,6 +1,6 @@
 ---
 title: Nada bueno que postear
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/01/nada-bueno-que-postear/
 categories:

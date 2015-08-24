@@ -1,6 +1,6 @@
 ---
 title: Cómo hacer funcionar Wake On Lan en Debian Lenny
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2010/04/como-hacer-funcionar-wake-on-lan-en-debian-lenny/
 categories:

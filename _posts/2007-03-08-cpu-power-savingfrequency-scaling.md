@@ -1,6 +1,6 @@
 ---
 title: CPU Power Saving/Frequency Scaling
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/03/cpu-power-savingfrequency-scaling/
 categories:

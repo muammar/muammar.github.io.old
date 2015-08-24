@@ -1,6 +1,6 @@
 ---
 title: 'Panda &#8212; Tus Palabras Punzocortantes'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/11/panda-tus-palabras-punzocortantes/
 categories:

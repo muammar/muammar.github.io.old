@@ -1,6 +1,6 @@
 ---
 title: 'Un problema de consciencia&#8230;'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/10/un-problema-de-consciencia/
 categories:

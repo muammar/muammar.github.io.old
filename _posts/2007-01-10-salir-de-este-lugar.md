@@ -1,6 +1,6 @@
 ---
 title: Salir de este lugar
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/01/salir-de-este-lugar/
 categories:

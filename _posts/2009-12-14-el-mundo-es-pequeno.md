@@ -1,6 +1,6 @@
 ---
 title: El mundo es pequeño
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2009/12/el-mundo-es-pequeno/
 categories:

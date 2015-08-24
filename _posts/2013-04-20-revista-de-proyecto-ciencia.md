@@ -1,6 +1,6 @@
 ---
 title: Revista de proyecto ciencia
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2013/04/revista-de-proyecto-ciencia/
 categories:

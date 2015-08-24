@@ -1,6 +1,6 @@
 ---
 title: Ensayo de Taciturna.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/04/ensayo-de-taciturna/
 categories:

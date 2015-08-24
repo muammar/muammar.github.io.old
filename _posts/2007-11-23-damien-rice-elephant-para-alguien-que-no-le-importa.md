@@ -1,6 +1,6 @@
 ---
 title: 'Damien Rice &#8212; Elephant [Para alguien que no le importa]'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/11/damien-rice-elephant-para-alguien-que-no-le-importa/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: 2do Congreso Nacional de Software Libre (Venezuela 2006)
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/05/2do-congreso-nacional-de-software-libre-venezuela-2006/
 categories:

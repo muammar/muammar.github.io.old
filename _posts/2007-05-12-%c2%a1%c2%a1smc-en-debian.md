@@ -1,6 +1,6 @@
 ---
 title: ¡¡SMC en Debian!!
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/05/%c2%a1%c2%a1smc-en-debian/
 categories:

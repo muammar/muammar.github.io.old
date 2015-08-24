@@ -1,6 +1,6 @@
 ---
 title: Proyecto Ciencia
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2009/06/proyecto-ciencia/
 categories:

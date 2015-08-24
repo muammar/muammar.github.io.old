@@ -1,6 +1,6 @@
 ---
 title: Virtual hosts en apache2.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/05/virtual-hosts-en-apache2/
 categories:

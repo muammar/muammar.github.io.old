@@ -1,6 +1,6 @@
 ---
 title: 'Circa Survive &#8212; Living Together'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2008/01/circa-survive-living-together/
 categories:

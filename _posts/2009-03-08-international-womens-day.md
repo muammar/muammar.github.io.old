@@ -1,6 +1,6 @@
 ---
 title: 'International Women&#8217;s Day'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2009/03/international-womens-day/
 categories:

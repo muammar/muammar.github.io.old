@@ -1,6 +1,6 @@
 ---
 title: Disfuncional.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2008/04/disfuncional/
 categories:

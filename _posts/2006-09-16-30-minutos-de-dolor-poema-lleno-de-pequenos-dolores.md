@@ -1,6 +1,6 @@
 ---
 title: 30 minutos de dolor (poema lleno de pequeños dolores)
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/09/30-minutos-de-dolor-poema-lleno-de-pequenos-dolores/
 categories:

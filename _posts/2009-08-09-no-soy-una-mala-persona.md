@@ -1,6 +1,6 @@
 ---
 title: No soy una mala persona
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2009/08/no-soy-una-mala-persona/
 categories:

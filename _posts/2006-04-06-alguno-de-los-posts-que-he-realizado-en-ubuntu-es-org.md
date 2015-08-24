@@ -1,6 +1,6 @@
 ---
 title: Alguno de los posts que he realizado en ubuntu-es.org
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/04/alguno-de-los-posts-que-he-realizado-en-ubuntu-es-org/
 categories:

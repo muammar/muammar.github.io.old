@@ -1,6 +1,6 @@
 ---
 title: Instalar Driver de ATI para breezy.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/04/instalar-driver-de-ati-para-breezy/
 categories:

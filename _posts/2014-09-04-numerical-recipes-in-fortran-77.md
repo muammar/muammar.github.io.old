@@ -1,6 +1,6 @@
 ---
 title: Numerical Recipes in Fortran 77
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2014/09/numerical-recipes-in-fortran-77/
 categories:

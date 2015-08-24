@@ -1,6 +1,6 @@
 ---
 title: 'Una mala invitación.  Mark Shuttleworth tratando de atraer OpenSUSE Developers.'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/11/una-mala-invitacion-mark-shuttleworth-tratando-de-atraer-opensuse-developers/
 categories:

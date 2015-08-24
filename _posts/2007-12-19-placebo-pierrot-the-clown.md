@@ -1,6 +1,6 @@
 ---
 title: 'Placebo &#8212; Pierrot the clown'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/12/placebo-pierrot-the-clown/
 categories:

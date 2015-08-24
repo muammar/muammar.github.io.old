@@ -1,6 +1,6 @@
 ---
 title: Ganando acceso root, o poderes de súper vaca en el G1.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2009/10/ganando-acceso-root-o-poderes-de-super-vaca-en-el-g1/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Shipit ubuntu ya no será gratis.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/09/shipit-ubuntu-ya-no-sera-gratis/
 categories:

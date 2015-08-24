@@ -1,6 +1,6 @@
 ---
 title: 'Taciturna &#8212; Qué Debo Perder'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2008/05/taciturna-que-debo-perder/
 categories:

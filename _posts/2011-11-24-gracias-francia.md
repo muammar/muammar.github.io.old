@@ -1,6 +1,6 @@
 ---
 title: Gracias Francia
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2011/11/gracias-francia/
 categories:

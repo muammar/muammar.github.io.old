@@ -1,6 +1,6 @@
 ---
 title: 'Mis poemas&#8230;'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/04/mis-poemas/
 categories:

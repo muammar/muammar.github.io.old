@@ -1,6 +1,6 @@
 ---
 title: Problemas con aplicaciones java en Awesome WM
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2015/03/problemas-con-aplicaciones-java-en-awesome-wm/
 categories:

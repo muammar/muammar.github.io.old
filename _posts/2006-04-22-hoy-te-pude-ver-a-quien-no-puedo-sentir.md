@@ -1,6 +1,6 @@
 ---
 title: 'Hoy te pude ver&#8230; (a quien no puedo sentir)'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2006/04/hoy-te-pude-ver-a-quien-no-puedo-sentir/
 categories:

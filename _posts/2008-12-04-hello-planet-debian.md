@@ -1,6 +1,6 @@
 ---
 title: Hello Planet Debian.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2008/12/hello-planet-debian/
 categories:

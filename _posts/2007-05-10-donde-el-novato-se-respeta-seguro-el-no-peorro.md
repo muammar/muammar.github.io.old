@@ -1,6 +1,6 @@
 ---
 title: 'Donde el novato se respeta&#8230; Seguro? [El no peorro]'
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2007/05/donde-el-novato-se-respeta-seguro-el-no-peorro/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Errores comunes en Gaussian
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2008/10/errores-comunes-en-gaussian/
 categories:

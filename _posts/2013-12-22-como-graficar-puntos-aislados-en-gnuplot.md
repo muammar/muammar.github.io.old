@@ -1,6 +1,6 @@
 ---
 title: ¿Cómo graficar puntos aislados en Gnuplot?
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2013/12/como-graficar-puntos-aislados-en-gnuplot/
 categories:

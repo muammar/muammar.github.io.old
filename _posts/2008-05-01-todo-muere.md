@@ -1,6 +1,6 @@
 ---
 title: Todo muere.
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2008/05/todo-muere/
 categories:

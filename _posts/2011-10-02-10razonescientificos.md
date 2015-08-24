@@ -1,6 +1,6 @@
 ---
 title: 10 razones por las que hablar con científicos puede ser una tarea no fácil
-author: muammar
+author: Muammar El Khatib
 layout: post
 permalink: /blog/2011/10/10razonescientificos/
 categories:
