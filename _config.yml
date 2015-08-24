@@ -12,4 +12,3 @@ github_username:  muammar
 markdown: kramdown
 
 permalink: /blog/:year/:month/:day/:title/
-
