@@ -17,7 +17,8 @@ So, I have read parts of this book called Numerical Recipes in Fortran 77, and 
 
 You just have to execute:
 
-`$ sh takeit.sh`  
+`$ sh takeit.sh`
+
 Once the process is finished (I suggest you to take a coffee, because it takes time to build the pdf), a file called NumericalRecipes.pdf of about 13MB is created.
 
 You can download the script below:
