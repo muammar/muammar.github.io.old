@@ -121,7 +121,7 @@ Ejemplo:
 permalink: /blog/2006/04/el-hermitismo/
 ~~~
 
-Y finalmente, en `_config.yml`, agregué:
+Además, en `_config.yml`, agregué:
 
 ~~~
 permalink: /blog/:year/:month/:day/:title/
