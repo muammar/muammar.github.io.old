@@ -5,6 +5,7 @@ layout: post
 categories:
   - Ciencias
   - Linux
+  - Debian
 tags:
   - jekyll
   - migration
