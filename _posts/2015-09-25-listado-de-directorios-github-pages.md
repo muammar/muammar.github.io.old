@@ -20,7 +20,7 @@ sencillo y perfectamente descrito en
 de este servicio son:
 
 1. [No hay soporte
-HTTPS](https://help.github.com/articles/what-are-github-pages/)
+   HTTPS](https://help.github.com/articles/what-are-github-pages/).
 2. No es posible listar contenido de un directorio (al menos en la
    investigación que hice no encontré nada).
 
@@ -47,8 +47,8 @@ Puedes [descargarlo
 aquí](https://raw.githubusercontent.com/muammar/muammar.github.io/master/files/listing.sh)
 (créditos:
 [http://blog.kaltepoth.de/posts/2010/09/06/github-maven-repositories.html](http://blog.kaltepoth.de/posts/2010/09/06/github-maven-repositories.html)).
-Este script debe ser ejecutado en el `root` del directorio al que quieres listar
-su contenido. Esto creará una serie de archivos index.html que lucen así ->
-[ver aquí](http://muammar.me/files). Espero sea de utilidad para algunos.
+Este script debe ser ejecutado en el `root` del directorio al que quieres
+listar su contenido. Esto creará una serie de archivos index.html que lucen así
+-> [ver aquí](http://muammar.me/files). Espero sea de utilidad para algunos.
 
 
