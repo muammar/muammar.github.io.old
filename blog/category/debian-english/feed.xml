@@ -1,13 +1,14 @@
 ---
+layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>{{ site.name | xml_escape }} - Debian</title>
-		<description>Posts categorized as 'debian'</description>
+		<title>{{ site.name | xml_escape }} - Debian-english</title>
+		<description>Posts categorized as 'debian-english'</description>
 		<link>{{ site.url }}</link>
-                <atom:link href="http://muammar.me/blog/category/debian/feed/" rel="self" type="application/rss+xml" />
-		{% for post in site.categories.debian limit:10 %}
+                <atom:link href="http://muammar.me/blog/category/debian-english/feed/" rel="self" type="application/rss+xml" />
+		{% for post in site.categories.debian-english limit:10 %}
 			<item>
 				<title>{{ post.title | xml_escape }}</title>
 				{% if post.excerpt %}
