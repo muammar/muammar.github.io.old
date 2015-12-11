@@ -39,38 +39,42 @@ layout: default
 
             <h3><strong>List of published software</strong></h3>
 
-            <p>I have some github repositories with some programs that may be of interest:</p>
-
             <ul>
-                <li><strong>Huckel</strong> (<a href="https://github.com/muammar/huckel">https://github.com/muammar/huckel</a>)</li>
+                <li type="square"> <p><strong>Github repositories</strong></p>
+                        <ul>
+                            <li><strong>Huckel</strong> (<a href="https://github.com/muammar/huckel">https://github.com/muammar/huckel</a>)</li>
+                                <p>This is a python program that takes your MOLPRO output file, and from the
+                                    Cartesian coordinates, it forms a Huckel hamiltonian matrix to then give you
+                                    the eigenvalues to be plotted against the normalized eigenvalues ordinal
+                                    numbers as showed in Ref.[1], and [5]. It is also possible to delete desired
+                                    Carbon atoms by indicanting their respective numbers in the structure.
+                                </p>
+
+                            <li><strong>Centerfinder</strong> (<a href="https://github.com/muammar/centerfinder">https://github.com/muammar/centerfinder</a>)</li>
+                                <p>This python script intends to look for localized molecular orbitals (LMO)
+                                    near to atoms based on the center of charges and prepare a MOLPRO input
+                                    file in order to perform later incremental calculations as stated in H.
+                                    Stoll, Chem. Phys. Lett., 1992, 19. This is normally a very tedious work to
+                                    be done by hand, and it&rsquo;s there when centerfinder comes to help.
+                                </p>
+
+                            <li><strong>Heisengerg</strong> (<a href="https://github.com/muammar/heisenberg">https://github.com/muammar/heisenberg</a>)</li>
+
+                                <p>A python program written by E. Fertitta and myself to build a heisenberg
+                                    hamiltonian matrix, diagonalize it and calculate the  <a
+                                        href="https://en.wikipedia.org/wiki/Total_Position_Spread">Position
+                                        Spread tensor</a>.
+                                </p>
+                            </li>
+                        </ul>
+                        <li type="square"> <p><strong>Total Position-Spread
+                                    tensor</strong> computed in the MULTI
+                                module of Molpro (See: <a
+                                    href="https://www.molpro.net/info/2015.1/doc/manual/node278.html">https://www.molpro.net/info/2015.1/doc/manual/node278.html</a>)
+                            </p>
+                        </li>
             </ul>
 
-
-            <p>This is a python program that takes your MOLPRO output file, and from the
-                Cartesian coordinates, it forms a Huckel hamiltonian matrix to then give you
-                the eigenvalues to be plotted against the normalized eigenvalues ordinal
-                numbers as showed in Ref.[1], and [5]. It is also possible to delete desired
-                Carbon atoms by indicanting their respective numbers in the structure.</p>
-
-            <ul>
-                <li><strong>Centerfinder</strong> (<a href="https://github.com/muammar/centerfinder">https://github.com/muammar/centerfinder</a>)</li>
-            </ul>
-
-
-            <p>This python script intends to look for localized molecular orbitals (LMO)
-                near to atoms based on the center of charges and prepare a MOLPRO input
-                file in order to perform later incremental calculations as stated in H.
-                Stoll, Chem. Phys. Lett., 1992, 19. This is normally a very tedious work to
-                be done by hand, and it&rsquo;s there when centerfinder comes to help.</p>
-
-            <ul>
-                <li><strong>Heisengerg</strong> (<a href="https://github.com/muammar/heisenberg">https://github.com/muammar/heisenberg</a>)</li>
-            </ul>
-
-
-            <p>A python program written by E. Fertitta and myself to build a heisenberg
-                hamiltonian matrix, diagonalize it and calculate the  <a href="https://en.wikipedia.org/wiki/Total_Position_Spread">Position Spread
-                    tensor</a>.</p>
 
             <h3><strong>List of publications</strong></h3>
 
