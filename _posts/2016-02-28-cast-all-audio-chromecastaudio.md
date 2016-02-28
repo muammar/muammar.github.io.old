@@ -22,21 +22,17 @@ Another limitation going beyond price is the fact that you can only stream
 using Sonos' application (as far as I investigated) something I don't find
 appealing. As I already had my speakers, I was looking for something to cast
 over them using wifi. Sonos proposes *Connect* which is like what chromecast
-audio does but for a price which is 10 times expensive!.
-
+audio does but for a price which is 10 times more expensive!.
 
 I am not rich (not yet, LOL), so after listening to some Sonos speakers in
 a shop without getting surprised, I decided to buy the chromecast audio at 39€.
 
-Installation
-============
+Setup and installation was straightforward. And the natural question was: how
+to cast from Linux without using Google Chrome?.
 
-
-Cast from Mac OS X
-==================
-
-What about Linux
-================
-I have dual boot, and my linux distro is debian unstable. To cast all audio to
-the CCA there is a very interesting solution in github using pulse audio
-called [pulseaudio-dlna](https://github.com/masmu/pulseaudio-dlna).
+Casting from Linux to CCA
+=========================
+There is a very interesting solution in github using pulseaudio called
+[pulseaudio-dlna](https://github.com/masmu/pulseaudio-dlna). I was so amazed
+on how easy it was to use that [I decided to upload it to
+Debian](https://packages.debian.org/unstable/pulseaudio-dlna).
