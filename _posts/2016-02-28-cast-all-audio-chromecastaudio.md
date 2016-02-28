@@ -1,5 +1,5 @@
 ---
-title: Cast all audio in chromecast audio
+title: Cast audio from Debian to chromecast audio
 author: Muammar El Khatib
 layout: post
 categories:
@@ -31,8 +31,48 @@ Setup and installation was straightforward. And the natural question was: how
 to cast from Linux without using Google Chrome?.
 
 Casting from Linux to CCA
-=========================
+-------------------------
 There is a very interesting solution in github using pulseaudio called
-[pulseaudio-dlna](https://github.com/masmu/pulseaudio-dlna). I was so amazed
-on how easy it was to use that [I decided to upload it to
+[pulseaudio-dlna](https://github.com/masmu/pulseaudio-dlna). I was so amazed on
+how easy it was to use it that [I uploaded it to
 Debian](https://packages.debian.org/unstable/pulseaudio-dlna).
+
+To install it, just do:
+
+```
+# apt-get install pulseaudio-dlna
+```
+
+Then, you have to start the application from console:
+
+```
+$ pulseaudio-dlna -e ogg
+```
+
+**Note: I have used the `-e` option to set the audio encoder to ogg (for more
+information `man pulseaudio-dlna`).**
+
+List of supported encoders
+==========================
+
+|---------|------------------------------|------------|
+| Encoder |         Description          | Identifier |
+|---------|------------------------------|------------|
+| lame    | MPEG Audio Layer III         | mp3        |
+| oggenc  | Ogg Vorbis                   | ogg        |
+| flac    | Free Lossless Audio Codec    | flac       |
+| sox     | Waveform Audio File Format   | wav        |
+| opusenc | Opus Interactive Audio Codec | opus       |
+| faac    | Advanced Audio Coding        | aac        |
+| sox     | Linear PCM                   | l16        |
+|---------|------------------------------|------------|
+
+When `pulseaudio-dlna` is launched, the output looks as follows:
+
+<img class="aligncenter size-large wp-image-1021" src="http://muammar.me/blog/wp-content/uploads/2016/02/CCA1.png" alt="First launch" width="70%" height="70%" />
+
+If the device is detected correctly, then one has to execute `pavucontrol` and
+look for the new Pulseaudio sink that matches the name of the device as seen in
+the figure below.
+
+<img class="aligncenter size-large wp-image-1021" src="http://muammar.me/blog/wp-content/uploads/2016/02/CCA2.png" alt="First launch" width="70%" height="70%" />
