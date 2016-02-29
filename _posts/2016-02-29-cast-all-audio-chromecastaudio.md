@@ -77,6 +77,7 @@ with Debian policy.
 When `pulseaudio-dlna` is launched, the output looks as follows:
 
 <img class="aligncenter size-large wp-image-1021" src="http://muammar.me/blog/wp-content/uploads/2016/02/CCA1.png" alt="First launch" width="70%" height="70%" />
+
 [Full size image](http://muammar.me/blog/wp-content/uploads/2016/02/CCA1.png)
 
 If the device is detected correctly, then one has to execute `pavucontrol` and
@@ -84,6 +85,7 @@ look for the new created Pulseaudio sink that matches the name of the device as
 seen in the figure below.
 
 <img class="aligncenter size-large wp-image-1021" src="http://muammar.me/blog/wp-content/uploads/2016/02/CCA2.png" alt="Device detected" width="70%" height="70%" />
+
 [Full size image](http://muammar.me/blog/wp-content/uploads/2016/02/CCA2.png)
 
 It is important to note that `pulseaudio-dlna` has to be running in order to
