@@ -1,5 +1,6 @@
 ---
 title: Cast audio from Debian to chromecast audio
+date:  2016-02-29 20:00:00
 author: Muammar El Khatib
 layout: post
 categories:
