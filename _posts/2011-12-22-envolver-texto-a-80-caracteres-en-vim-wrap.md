@@ -13,7 +13,7 @@ Este post es también una nota personal (a veces solo lo olvido), parecida al po
 Como una imagen vale más que mil palabras, me refiero a este &#8220;chorizo&#8221; que muestro a continuación:
 
 <p style="text-align: center;">
-  <a href="http://muammar.me/blog/2011/12/envolver-texto-a-80-caracteres-en-vim-wrap/antes/" rel="attachment wp-att-780"><img class=" wp-image-780 aligncenter" title="Chorizo" src="http://muammar.me/blog/wp-content/uploads/2011/12/antes-300x68.png" alt="chorizo" width="340" height="108" /></a>
+  <a href="http://muammar.me/blog/wp-content/uploads/2011/12/antes-1024x234.png" rel="attachment wp-att-780"><img class=" wp-image-780 aligncenter" title="Chorizo" src="http://muammar.me/blog/wp-content/uploads/2011/12/antes-300x68.png" alt="chorizo" width="340" height="108" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -29,7 +29,7 @@ Como una imagen vale más que mil palabras, me refiero a este &#8220;chorizo&#82
 </p>
 
 <p style="text-align: left;">
-  <a href="http://muammar.me/blog/2011/12/envolver-texto-a-80-caracteres-en-vim-wrap/shiftv/" rel="attachment wp-att-781"><img class="alignnone size-large wp-image-781" title="shiftv" src="http://muammar.me/blog/wp-content/uploads/2011/12/shiftv-1024x79.png" alt="" width="584" height="45" /></a>
+  <a href="http://muammar.me/blog/wp-content/uploads/2011/12/shiftv-1024x79.png" rel="attachment wp-att-781"><img class="alignnone size-large wp-image-781" title="shiftv" src="http://muammar.me/blog/wp-content/uploads/2011/12/shiftv-1024x79.png" alt="" width="584" height="45" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -37,7 +37,7 @@ Como una imagen vale más que mil palabras, me refiero a este &#8220;chorizo&#82
 </p>
 
 <p style="text-align: left;">
-  <a href="http://muammar.me/blog/2011/12/envolver-texto-a-80-caracteres-en-vim-wrap/descente/" rel="attachment wp-att-782"><img class="alignnone size-full wp-image-782" title="descente" src="http://muammar.me/blog/wp-content/uploads/2011/12/descente.png" alt="" width="605" height="142" /></a>
+  <a href="http://muammar.me/blog/wp-content/uploads/2011/12/descente-500x117.png" rel="attachment wp-att-782"><img class="alignnone size-full wp-image-782" title="descente" src="http://muammar.me/blog/wp-content/uploads/2011/12/descente.png" alt="" width="605" height="142" /></a>
 </p>
 
 <p style="text-align: left;">
