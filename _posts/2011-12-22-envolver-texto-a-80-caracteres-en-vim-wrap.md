@@ -28,7 +28,7 @@ Como una imagen vale más que mil palabras, me refiero a este &#8220;chorizo&#82
   Pulsamos la combinación <strong>Shift + V </strong>(modo Visual Line en VIM para seleccionar texto), y procedemos a &#8220;sombrear&#8221; las líneas de interés (en mi caso, como pueden ver solo es una, pero vaya línea, ¿no?), y debería lucir como muestro en la próxima figura:
 </p>
 
-<p style="text-align: left;">
+<p style="text-align: center;">
   <a href="http://muammar.me/blog/wp-content/uploads/2011/12/shiftv-1024x79.png" rel="attachment wp-att-781"><img class="alignnone size-large wp-image-781" title="shiftv" src="http://muammar.me/blog/wp-content/uploads/2011/12/shiftv-1024x79.png" alt="" width="584" height="45" /></a>
 </p>
 
@@ -36,7 +36,7 @@ Como una imagen vale más que mil palabras, me refiero a este &#8220;chorizo&#82
   Y por último pulsamos la siguiente combinación de teclas: <strong>gq</strong>. Esto, trae como consecuencia, que el &#8220;chorizo que se mostraba previamente&#8221; luzca descentemente:
 </p>
 
-<p style="text-align: left;">
+<p style="text-align: center;">
   <a href="http://muammar.me/blog/wp-content/uploads/2011/12/descente-500x117.png" rel="attachment wp-att-782"><img class="alignnone size-full wp-image-782" title="descente" src="http://muammar.me/blog/wp-content/uploads/2011/12/descente.png" alt="" width="605" height="142" /></a>
 </p>
 
