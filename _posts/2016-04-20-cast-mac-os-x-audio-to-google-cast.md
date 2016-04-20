@@ -1,5 +1,5 @@
 ---
-title: Cast mac os x audio to your google cast devices with mkchromecast
+title: Cast audio from Mac OS X to chromecast audio with mkchromecast
 date:  2016-04-20 02:00:00
 author: Muammar El Khatib
 layout: post
@@ -9,10 +9,9 @@ tags:
   - music
   - google
   - chromecast audio
-  - mac os x
+  - Mac
   - cast
-  - python
-  - ffmpeg
+  - mkchromecast
 ---
 
 In a previous post I wrote about the [google cast audio, and how to cast audio
