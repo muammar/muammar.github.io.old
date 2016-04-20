@@ -24,7 +24,7 @@ As I didn't find any satisfactory solution for this, I decided to write
 [mkchromecast](https://github.com/muammar/mkchromecast). This is an application
 written in Python, that uses two backends to stream audio to your google cast
 devices: `node` or `python flask + ffmpeg`. Moreover, you can modify the
-`bitrates`, `sample rates` and `audio coding formats` (the latter one is
+**bitrates**, **sample rates** and **audio coding formats** (the latter one is
 available provided that you use `ffmpeg`). To communicate to the google cast
 devices it uses `pychromecast`.
 
