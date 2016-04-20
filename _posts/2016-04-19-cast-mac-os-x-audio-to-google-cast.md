@@ -73,6 +73,8 @@ python mkchromecast.py
 
 **Note**: you can use **mkchromecast** with Python3 if you want to.
 
+### Some examples
+
 Using `aac` with a selected `bitrate` of `256k`:
 
 ```
