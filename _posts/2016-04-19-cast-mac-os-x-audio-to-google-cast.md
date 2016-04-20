@@ -1,5 +1,5 @@
 ---
-title: Cast audio from Mac OS X to chromecast audio with mkchromecast
+title: Cast audio from Mac OS X to google cast
 date:  2016-04-19 23:00:00
 author: Muammar El Khatib
 layout: post
