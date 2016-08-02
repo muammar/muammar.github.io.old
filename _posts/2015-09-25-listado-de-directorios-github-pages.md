@@ -31,17 +31,8 @@ problema es crear un script que genere archivos `index.html` en los directorios
 (y subdirectorios) cuyo contenido quiere ser listado. Conseguí uno que funciona
 bastante bien:
 
-~~~
-#!/bin/bash
-
-for DIR in $(find ./ -type d); do
-  (
-    echo  "<html>\n<body>\n<h1>Directory listing</h1>\n<hr/>\n<pre>"
-    ls -1pa "${DIR}" | grep -v "^\./$" | grep -v "^index\.html$" | awk '{ printf "<a href=\"%s\">%s</a>\n",$1,$1 }'
-    echo  "</pre>\n</body>\n</html>"
-  ) > "${DIR}/index.html"
-done
-~~~
+<script
+src="https://gist.github.com/muammar/6444f3c269280ca12d243cd49488d9a7.js"></script>
 
 Puedes [descargarlo
 aquí](https://raw.githubusercontent.com/muammar/muammar.github.io/master/files/listing.sh)
