@@ -11,9 +11,9 @@ tags:
   - dangling
 ---
 Escribo este artículo, porque es otra de esas cosas que olvido y siempre
-termino buscando repetidas veces (aunque tenga en mi `zsh` los 10.000 últimos
-comandos guardados). Voy a escribir brevemente sobre los `dangling blobs`
-o `dangling commits`.
+termino buscando repetidas veces (aunque tenga en guardado en mi `zsh` los
+10.000 últimos comandos ejecutados). Voy a escribir brevemente sobre los
+`dangling blobs` o `dangling commits`.
 
 Lo primero, es entender qué es un _dangling commit_. Para ello, les recomiendo
 [leer
@@ -22,12 +22,12 @@ aquí](http://stackoverflow.com/questions/18514659/git-what-is-a-dangling-commit
 o incluso [aquí](http://osdir.com/ml/git/2009-04/msg01863.html). En líneas
 generales, cada vez que hacemos un `commit` y `HEAD` se mueve, `git` "rastrea"
 esto en el `reflog` (o [Reference logs](https://git-scm.com/docs/git-reflog)).
-En el caso de que algunos `commits` sean removidos de un repositorio, se
+En el caso que algunos `commits` sean removidos de un repositorio, se
 crearan los `dangling commits` que son aquellos `commits` que están aún siendo
 referidos por `reflog` por un máximo de ~30 días. Estos `commits` existen como
 medida de seguridad en caso de que borres algo por accidente.
 
-## ¿Cómo los borro?
+## ¿Cómo lidiar con ellos?
 
 Hay hacer un `git fsck` para verificar el estado del repositorio:
 
@@ -42,8 +42,10 @@ dangling blob 609eb77b7ae23bcbbf020997e55830aa8a8502a1
 dangling blob f6d031422ef9d23b7225080a57c612d7f4e1ae51
 ```
 
-Como se puede observar, hay un total de 5 `dangling blobs`. Podemos observar el
-contenido con `git show`. Para eliminarlos, ejecutamos:
+Como se puede observar, hay un total de 5 `dangling blobs`. Podemos
+inspeccionar el contenido con `git show`.
+
+Para eliminarlos, ejecutamos:
 
 ```
 ± % git reflog expire --expire=now --all
