@@ -10,6 +10,9 @@ github_username:  muammar
 # Build settings
 markdown: kramdown
 
+jekyll_compose:
+    auto_open: true
+
 permalink: /blog/:year/:month/:day/:title/
 
 # blog
