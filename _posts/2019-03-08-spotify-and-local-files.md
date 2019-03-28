@@ -5,7 +5,7 @@ author: Muammar El Khatib
 date: 2019-03-08 15:38 -0800
 categories:
   - Linux
-  - Debian
+  - Debian-English
 tags:
   - Spotify
 ---
