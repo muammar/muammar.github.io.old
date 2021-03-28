@@ -20,7 +20,7 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
-- description: 0.33
+- description: 0.34
   icon: atom
   icon_pack: fas
   name: Chemical Physics
@@ -33,7 +33,7 @@ feature:
 #- icon: ":smile:"
 #  icon_pack: "emoji"
 #  name: "Emojiness"
-#  description: "100%"  
+#  description: "100%"
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
