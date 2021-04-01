@@ -27,7 +27,7 @@ feature:
 - description: 0.33
   icon: robot
   icon_pack: fas
-  name: AI/ML
+  name: ML
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
