@@ -14,7 +14,7 @@ organizations:
   url: https://www.bms.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include machine learning, electronic structure and software.
 
 # Interests to show in About widget
 interests:
@@ -95,7 +95,7 @@ and data sets to solve chemical science problems.
 
 He has published more than ten papers, given presentations at international
 conferences, and developed the ML4Chem machine learning package, a module for
-the Molpro quantum-chemistry package, and the atomistic machine-learning
+the MOLPRO quantum-chemistry package, and the atomistic machine-learning
 package (Amp). Additionally, he has participated in the free software
 community and is a Debian Linux developer.
 
