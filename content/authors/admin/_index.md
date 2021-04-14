@@ -22,18 +22,19 @@ interests:
 - Machine Learning
 - Software Development
 - Theoretical Chemical Physics
+- Electronic Structure
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Theoretical Chemical Physics
-    institution: Université Paul Sabatier
+    institution: Université Paul Sabatier, France
     year: 2015
   - course: Master in Theoretical Chemistry and Computational Modeling
-    institution: Université Paul Sabatier
+    institution: Université Paul Sabatier, France
     year: 2012
   - course: BSc in Chemistry
-    institution: University of Zulia
+    institution: University of Zulia, Venezuela
     year: 2010
 
 # Social/Academic Networking
@@ -99,4 +100,4 @@ the MOLPRO quantum-chemistry package, and the atomistic machine-learning
 package (Amp). Additionally, he has participated in the free software
 community and is a Debian Linux developer.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/MuammarElKhatib_CV_en.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/MuammarElKhatib_CV_en.pdf" "newtab" >}}CV{{< /staticref >}}.

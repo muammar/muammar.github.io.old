@@ -25,7 +25,7 @@ experience:
   - title: Principal Scientist
     company: Bristol-Myers-Squibb
     company_url: ''
-    location: Cambridge, MA
+    location: Cambridge, MA, United States
     date_start: '2020-11-30'
     date_end: ''
     description: |2-
@@ -62,7 +62,7 @@ experience:
   - title: Postdoctoral Scholar
     company: Lawrence Berkeley National Laboratory
     company_url: ''
-    location: Berkeley, CA
+    location: Berkeley, CA, United States
     date_start: '2018-11-01'
     date_end: '2020-09-30'
     description: |2-
@@ -85,7 +85,7 @@ experience:
   - title: Postdoctoral Research Associate
     company: Brow University
     company_url: ''
-    location: Providence, RI
+    location: Providence, RI, United States
     date_start: '2016-10-10'
     date_end: '2018-11-10'
     description: |2-
