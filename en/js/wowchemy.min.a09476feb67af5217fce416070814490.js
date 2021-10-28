@@ -1,8 +1,5 @@
 (() => {
   // <stdin>
-  /*! Wowchemy v5.0.0-beta.3 | https://wowchemy.com/ */
-  /*! Copyright 2016-present George Cushen (https://georgecushen.com/) */
-  /*! License: https://github.com/wowchemy/wowchemy-hugo-modules/blob/main/LICENSE.md */
   (() => {
     var a = Object.assign || function(d2) {
       for (var a2 = 1, b2, c2; a2 < arguments.length; a2++) {
@@ -33,7 +30,7 @@
       var b2 = c2.getBoundingClientRect(), e2 = b2.top, f2 = b2.left, g2 = b2.width, d2 = b2.height, a2 = c2.cloneNode(), h2 = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0, i2 = window.pageXOffset || document.documentElement.scrollLeft || document.body.scrollLeft || 0;
       return a2.removeAttribute("id"), a2.style.position = "absolute", a2.style.top = e2 + h2 + "px", a2.style.left = f2 + i2 + "px", a2.style.width = g2 + "px", a2.style.height = d2 + "px", a2.style.transform = "", a2;
     }, c = function(c2, e2) {
-      var b2 = a({bubbles: false, cancelable: false, detail: void 0}, e2), d2;
+      var b2 = a({ bubbles: false, cancelable: false, detail: void 0 }, e2), d2;
       return typeof window.CustomEvent == "function" ? new CustomEvent(c2, b2) : (d2 = document.createEvent("CustomEvent"), d2.initCustomEvent(c2, b2.bubbles, b2.cancelable, b2.detail), d2);
     }, x = function(j2) {
       var F2 = arguments.length > 1 && arguments[1] !== void 0 ? arguments[1] : {}, m2 = window.Promise || function(b3) {
@@ -48,7 +45,7 @@
         }
         if (g2.indexOf(a2) === -1)
           return;
-        o2({target: a2});
+        o2({ target: a2 });
       }, D2 = function() {
         if (i2 || !b2.original)
           return;
@@ -60,7 +57,7 @@
       }, z2 = function() {
         var b3 = arguments.length > 0 && arguments[0] !== void 0 ? arguments[0] : {}, h3 = b3, i3;
         return b3.background && (k2.style.background = b3.background), b3.container && b3.container instanceof Object && (h3.container = a({}, d2.container, b3.container)), b3.template && (i3 = f(b3.template) ? b3.template : document.querySelector(b3.template), h3.template = i3), d2 = a({}, d2, h3), g2.forEach(function(a2) {
-          a2.dispatchEvent(c("medium-zoom:update", {detail: {zoom: e2}}));
+          a2.dispatchEvent(c("medium-zoom:update", { detail: { zoom: e2 } }));
         }), e2;
       }, y2 = function() {
         var b3 = arguments.length > 0 && arguments[0] !== void 0 ? arguments[0] : {};
@@ -86,7 +83,7 @@
         return b2.zoomed && h2(), i3 = d3.length > 0 ? d3.reduce(function(a3, b3) {
           return [].concat(a3, A(b3));
         }, []) : g2, i3.forEach(function(a3) {
-          a3.classList.remove("medium-zoom-image"), a3.dispatchEvent(c("medium-zoom:detach", {detail: {zoom: e2}}));
+          a3.classList.remove("medium-zoom-image"), a3.dispatchEvent(c("medium-zoom:detach", { detail: { zoom: e2 } }));
         }), g2 = g2.filter(function(a3) {
           return i3.indexOf(a3) === -1;
         }), e2;
@@ -94,7 +91,7 @@
         var c2 = arguments.length > 2 && arguments[2] !== void 0 ? arguments[2] : {};
         return g2.forEach(function(d3) {
           d3.addEventListener("medium-zoom:" + a2, b3, c2);
-        }), l2.push({type: "medium-zoom:" + a2, listener: b3, options: c2}), e2;
+        }), l2.push({ type: "medium-zoom:" + a2, listener: b3, options: c2 }), e2;
       }, r2 = function(a2, b3) {
         var c2 = arguments.length > 2 && arguments[2] !== void 0 ? arguments[2] : {};
         return g2.forEach(function(d3) {
@@ -104,8 +101,8 @@
         }), e2;
       }, q2 = function() {
         var n3 = arguments.length > 0 && arguments[0] !== void 0 ? arguments[0] : {}, j3 = n3.target, l3 = function() {
-          var c2 = {width: document.documentElement.clientWidth, height: document.documentElement.clientHeight, left: 0, top: 0, right: 0, bottom: 0}, e3 = void 0, g3 = void 0, y3, i3, v3, u3, r3, q3, h3, p3, o3, j4, s3, t3, m3, l4, w3, x2, k3, z3, A2, n4;
-          d2.container && (d2.container instanceof Object ? (c2 = a({}, c2, d2.container), e3 = c2.width - c2.left - c2.right - d2.margin * 2, g3 = c2.height - c2.top - c2.bottom - d2.margin * 2) : (y3 = f(d2.container) ? d2.container : document.querySelector(d2.container), i3 = y3.getBoundingClientRect(), v3 = i3.width, u3 = i3.height, r3 = i3.left, q3 = i3.top, c2 = a({}, c2, {width: v3, height: u3, left: r3, top: q3}))), e3 = e3 || c2.width - d2.margin * 2, g3 = g3 || c2.height - d2.margin * 2, h3 = b2.zoomedHd || b2.original, p3 = B(h3) ? e3 : h3.naturalWidth || e3, o3 = B(h3) ? g3 : h3.naturalHeight || g3, j4 = h3.getBoundingClientRect(), s3 = j4.top, t3 = j4.left, m3 = j4.width, l4 = j4.height, w3 = Math.min(p3, e3) / m3, x2 = Math.min(o3, g3) / l4, k3 = Math.min(w3, x2), z3 = (-t3 + (e3 - m3) / 2 + d2.margin + c2.left) / k3, A2 = (-s3 + (g3 - l4) / 2 + d2.margin + c2.top) / k3, n4 = "scale(" + k3 + ") translate3d(" + z3 + "px, " + A2 + "px, 0)", b2.zoomed.style.transform = n4, b2.zoomedHd && (b2.zoomedHd.style.transform = n4);
+          var c2 = { width: document.documentElement.clientWidth, height: document.documentElement.clientHeight, left: 0, top: 0, right: 0, bottom: 0 }, e3 = void 0, g3 = void 0, y3, i3, v3, u3, r3, q3, h3, p3, o3, j4, s3, t3, m3, l4, w3, x2, k3, z3, A2, n4;
+          d2.container && (d2.container instanceof Object ? (c2 = a({}, c2, d2.container), e3 = c2.width - c2.left - c2.right - d2.margin * 2, g3 = c2.height - c2.top - c2.bottom - d2.margin * 2) : (y3 = f(d2.container) ? d2.container : document.querySelector(d2.container), i3 = y3.getBoundingClientRect(), v3 = i3.width, u3 = i3.height, r3 = i3.left, q3 = i3.top, c2 = a({}, c2, { width: v3, height: u3, left: r3, top: q3 }))), e3 = e3 || c2.width - d2.margin * 2, g3 = g3 || c2.height - d2.margin * 2, h3 = b2.zoomedHd || b2.original, p3 = B(h3) ? e3 : h3.naturalWidth || e3, o3 = B(h3) ? g3 : h3.naturalHeight || g3, j4 = h3.getBoundingClientRect(), s3 = j4.top, t3 = j4.left, m3 = j4.width, l4 = j4.height, w3 = Math.min(p3, e3) / m3, x2 = Math.min(o3, g3) / l4, k3 = Math.min(w3, x2), z3 = (-t3 + (e3 - m3) / 2 + d2.margin + c2.left) / k3, A2 = (-s3 + (g3 - l4) / 2 + d2.margin + c2.top) / k3, n4 = "scale(" + k3 + ") translate3d(" + z3 + "px, " + A2 + "px, 0)", b2.zoomed.style.transform = n4, b2.zoomedHd && (b2.zoomedHd.style.transform = n4);
         };
         return new m2(function(a2) {
           var n4, o3, q3, m3, r3;
@@ -114,7 +111,7 @@
             return;
           }
           if (n4 = function d3() {
-            i2 = false, b2.zoomed.removeEventListener("transitionend", d3), b2.original.dispatchEvent(c("medium-zoom:opened", {detail: {zoom: e2}})), a2(e2);
+            i2 = false, b2.zoomed.removeEventListener("transitionend", d3), b2.original.dispatchEvent(c("medium-zoom:opened", { detail: { zoom: e2 } })), a2(e2);
           }, b2.zoomed) {
             a2(e2);
             return;
@@ -127,7 +124,7 @@
             a2(e2);
             return;
           }
-          b2.original.dispatchEvent(c("medium-zoom:open", {detail: {zoom: e2}})), p2 = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0, i2 = true, b2.zoomed = U(b2.original), document.body.appendChild(k2), d2.template && (q3 = f(d2.template) ? d2.template : document.querySelector(d2.template), b2.template = document.createElement("div"), b2.template.appendChild(q3.content.cloneNode(true)), document.body.appendChild(b2.template)), document.body.appendChild(b2.zoomed), window.requestAnimationFrame(function() {
+          b2.original.dispatchEvent(c("medium-zoom:open", { detail: { zoom: e2 } })), p2 = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0, i2 = true, b2.zoomed = U(b2.original), document.body.appendChild(k2), d2.template && (q3 = f(d2.template) ? d2.template : document.querySelector(d2.template), b2.template = document.createElement("div"), b2.template.appendChild(q3.content.cloneNode(true)), document.body.appendChild(b2.template)), document.body.appendChild(b2.zoomed), window.requestAnimationFrame(function() {
             document.body.classList.add("medium-zoom--opened");
           }), b2.original.classList.add("medium-zoom-image--hidden"), b2.zoomed.classList.add("medium-zoom-image--opened"), b2.zoomed.addEventListener("click", h2), b2.zoomed.addEventListener("transitionend", n4), b2.original.getAttribute("data-zoom-src") ? (b2.zoomedHd = b2.zoomed.cloneNode(), b2.zoomedHd.removeAttribute("srcset"), b2.zoomedHd.removeAttribute("sizes"), b2.zoomedHd.src = b2.zoomed.getAttribute("data-zoom-src"), b2.zoomedHd.onerror = function() {
             clearInterval(m3), console.warn("Unable to reach the zoom image target " + b2.zoomedHd.src), b2.zoomedHd = null, l3();
@@ -144,21 +141,21 @@
             return;
           }
           var d3 = function d4() {
-            b2.original.classList.remove("medium-zoom-image--hidden"), document.body.removeChild(b2.zoomed), b2.zoomedHd && document.body.removeChild(b2.zoomedHd), document.body.removeChild(k2), b2.zoomed.classList.remove("medium-zoom-image--opened"), b2.template && document.body.removeChild(b2.template), i2 = false, b2.zoomed.removeEventListener("transitionend", d4), b2.original.dispatchEvent(c("medium-zoom:closed", {detail: {zoom: e2}})), b2.original = null, b2.zoomed = null, b2.zoomedHd = null, b2.template = null, a2(e2);
+            b2.original.classList.remove("medium-zoom-image--hidden"), document.body.removeChild(b2.zoomed), b2.zoomedHd && document.body.removeChild(b2.zoomedHd), document.body.removeChild(k2), b2.zoomed.classList.remove("medium-zoom-image--opened"), b2.template && document.body.removeChild(b2.template), i2 = false, b2.zoomed.removeEventListener("transitionend", d4), b2.original.dispatchEvent(c("medium-zoom:closed", { detail: { zoom: e2 } })), b2.original = null, b2.zoomed = null, b2.zoomedHd = null, b2.template = null, a2(e2);
           };
-          i2 = true, document.body.classList.remove("medium-zoom--opened"), b2.zoomed.style.transform = "", b2.zoomedHd && (b2.zoomedHd.style.transform = ""), b2.template && (b2.template.style.transition = "opacity 150ms", b2.template.style.opacity = 0), b2.original.dispatchEvent(c("medium-zoom:close", {detail: {zoom: e2}})), b2.zoomed.addEventListener("transitionend", d3);
+          i2 = true, document.body.classList.remove("medium-zoom--opened"), b2.zoomed.style.transform = "", b2.zoomedHd && (b2.zoomedHd.style.transform = ""), b2.template && (b2.template.style.transition = "opacity 150ms", b2.template.style.opacity = 0), b2.original.dispatchEvent(c("medium-zoom:close", { detail: { zoom: e2 } })), b2.zoomed.addEventListener("transitionend", d3);
         });
       }, o2 = function() {
         var a2 = arguments.length > 0 && arguments[0] !== void 0 ? arguments[0] : {}, c2 = a2.target;
-        return b2.original ? h2() : q2({target: c2});
+        return b2.original ? h2() : q2({ target: c2 });
       }, t2 = function() {
         return d2;
       }, u2 = function() {
         return g2;
       }, v2 = function() {
         return b2.original;
-      }, g2 = [], l2 = [], i2 = false, p2 = 0, d2 = F2, b2 = {original: null, zoomed: null, zoomedHd: null, template: null}, k2, e2;
-      return Object.prototype.toString.call(j2) === "[object Object]" ? d2 = j2 : (j2 || typeof j2 == "string") && n2(j2), d2 = a({margin: 0, background: "#fff", scrollOffset: 40, container: null, template: null}, d2), k2 = X(d2.background), document.addEventListener("click", E2), document.addEventListener("keyup", C2), document.addEventListener("scroll", D2), window.addEventListener("resize", h2), e2 = {open: q2, close: h2, toggle: o2, update: z2, clone: y2, attach: n2, detach: w2, on: s2, off: r2, getOptions: t2, getImages: u2, getZoomedImage: v2}, e2;
+      }, g2 = [], l2 = [], i2 = false, p2 = 0, d2 = F2, b2 = { original: null, zoomed: null, zoomedHd: null, template: null }, k2, e2;
+      return Object.prototype.toString.call(j2) === "[object Object]" ? d2 = j2 : (j2 || typeof j2 == "string") && n2(j2), d2 = a({ margin: 0, background: "#fff", scrollOffset: 40, container: null, template: null }, d2), k2 = X(d2.background), document.addEventListener("click", E2), document.addEventListener("keyup", C2), document.addEventListener("scroll", D2), window.addEventListener("resize", h2), e2 = { open: q2, close: h2, toggle: o2, update: z2, clone: y2, attach: n2, detach: w2, on: s2, off: r2, getOptions: t2, getImages: u2, getZoomedImage: v2 }, e2;
     }, R, Q, P, t, q, b, h, i, e, d, w, z, C, W, v;
     function T(c2, d2) {
       var e2, b2, a2;
@@ -176,7 +173,7 @@
       }
     }
     function r(a2, d2) {
-      const b2 = a2.getBoundingClientRect(), e2 = {height: a2.clientHeight, width: a2.clientWidth}, c2 = d2.getBoundingClientRect(), f2 = c2.top >= b2.top && c2.bottom <= b2.top + e2.height;
+      const b2 = a2.getBoundingClientRect(), e2 = { height: a2.clientHeight, width: a2.clientWidth }, c2 = d2.getBoundingClientRect(), f2 = c2.top >= b2.top && c2.bottom <= b2.top + e2.height;
       f2 || (a2.scrollTop = c2.top + a2.scrollTop - b2.top);
     }
     function s(a2, d2 = 600) {
@@ -195,7 +192,7 @@
     }
     function H() {
       if (!l())
-        return console.debug("User theming disabled."), {isDarkTheme: window.wc.isSiteThemeDark, themeMode: window.wc.isSiteThemeDark ? 1 : 0};
+        return console.debug("User theming disabled."), { isDarkTheme: window.wc.isSiteThemeDark, themeMode: window.wc.isSiteThemeDark ? 1 : 0 };
       console.debug("User theming enabled.");
       let a2, c2 = u();
       switch (console.debug(`User's theme variation: ${c2}`), c2) {
@@ -209,7 +206,7 @@
           window.matchMedia("(prefers-color-scheme: dark)").matches ? a2 = true : window.matchMedia("(prefers-color-scheme: light)").matches ? a2 = false : a2 = window.wc.isSiteThemeDark;
           break;
       }
-      return a2 && !b.classList.contains("dark") ? (console.debug("Applying Wowchemy dark theme"), document.body.classList.add("dark")) : !a2 && b.classList.contains("dark") && (console.debug("Applying Wowchemy light theme"), document.body.classList.remove("dark")), {isDarkTheme: a2, themeMode: c2};
+      return a2 && !b.classList.contains("dark") ? (console.debug("Applying Wowchemy dark theme"), document.body.classList.add("dark")) : !a2 && b.classList.contains("dark") && (console.debug("Applying Wowchemy light theme"), document.body.classList.remove("dark")), { isDarkTheme: a2, themeMode: c2 };
     }
     function p(b2) {
       if (!l()) {
@@ -249,12 +246,12 @@
     function j(a2, h2 = 2, c2 = false) {
       const d2 = document.querySelector("link[title=hl-light]"), e2 = document.querySelector("link[title=hl-dark]"), f2 = d2 !== null || e2 !== null, g2 = document.querySelector("script[title=mermaid]") !== null;
       E(h2);
-      const i2 = new CustomEvent("wcThemeChange", {detail: {isDarkTheme: () => a2}});
+      const i2 = new CustomEvent("wcThemeChange", { detail: { isDarkTheme: () => a2 } });
       if (document.dispatchEvent(i2), !c2) {
         if (a2 === false && !b.classList.contains("dark") || a2 === true && b.classList.contains("dark"))
           return;
       }
-      a2 === false ? (c2 || (Object.assign(document.body.style, {opacity: 0, visibility: "visible"}), s(document.body, 600)), b.classList.remove("dark"), f2 && (console.debug("Setting HLJS theme to light"), d2 && (d2.disabled = false), e2 && (e2.disabled = true)), g2 && (console.debug("Initializing Mermaid with light theme"), c2 ? window.mermaid.initialize({startOnLoad: true, theme: "default", securityLevel: "loose"}) : location.reload())) : a2 === true && (c2 || (Object.assign(document.body.style, {opacity: 0, visibility: "visible"}), s(document.body, 600)), b.classList.add("dark"), f2 && (console.debug("Setting HLJS theme to dark"), d2 && (d2.disabled = true), e2 && (e2.disabled = false)), g2 && (console.debug("Initializing Mermaid with dark theme"), c2 ? window.mermaid.initialize({startOnLoad: true, theme: "dark", securityLevel: "loose"}) : location.reload()));
+      a2 === false ? (c2 || (Object.assign(document.body.style, { opacity: 0, visibility: "visible" }), s(document.body, 600)), b.classList.remove("dark"), f2 && (console.debug("Setting HLJS theme to light"), d2 && (d2.disabled = false), e2 && (e2.disabled = true)), g2 && (console.debug("Initializing Mermaid with light theme"), c2 ? window.mermaid.initialize({ startOnLoad: true, theme: "default", securityLevel: "loose" }) : location.reload())) : a2 === true && (c2 || (Object.assign(document.body.style, { opacity: 0, visibility: "visible" }), s(document.body, 600)), b.classList.add("dark"), f2 && (console.debug("Setting HLJS theme to dark"), d2 && (d2.disabled = true), e2 && (e2.disabled = false)), g2 && (console.debug("Initializing Mermaid with dark theme"), c2 ? window.mermaid.initialize({ startOnLoad: true, theme: "dark", securityLevel: "loose" }) : location.reload()));
     }
     function G(c2) {
       if (!l())
@@ -273,7 +270,7 @@
       if (a2 = typeof a2 == "undefined" || typeof a2 == "object" ? decodeURIComponent(window.location.hash) : a2, $(a2).length) {
         a2 = "#" + $.escapeSelector(a2.substring(1));
         let c2 = Math.ceil($(a2).offset().top - k());
-        $("body").addClass("scrolling"), $("html, body").animate({scrollTop: c2}, b2, function() {
+        $("body").addClass("scrolling"), $("html, body").animate({ scrollTop: c2 }, b2, function() {
           $("body").removeClass("scrolling");
         });
       } else
@@ -286,7 +283,7 @@
     function F() {
       if (window.history.replaceState) {
         let a2 = window.location.protocol + "//" + window.location.host + window.location.pathname + window.location.hash;
-        window.history.replaceState({path: a2}, "", a2);
+        window.history.replaceState({ path: a2 }, "", a2);
       }
     }
     if (window.addEventListener("hashchange", o), $("#navbar-main li.nav-item a.nav-link, .js-scroll").on("click", function(b2) {
@@ -294,16 +291,16 @@
       if (this.pathname === window.location.pathname && a2 && $(a2).length && $(".js-widget-page").length > 0) {
         b2.preventDefault();
         let c2 = Math.ceil($(a2).offset().top - k());
-        $("html, body").animate({scrollTop: c2}, 800);
+        $("html, body").animate({ scrollTop: c2 }, 800);
       }
     }), $(document).on("click", ".navbar-collapse.show", function(a2) {
       let b2 = $(a2.target).is("a") ? $(a2.target) : $(a2.target).parent();
       b2.is("a") && b2.attr("class") != "dropdown-toggle" && $(this).collapse("hide");
     }), h = {}, d = $("#container-publications"), d.length) {
-      d.isotope({itemSelector: ".isotope-item", percentPosition: true, masonry: {columnWidth: ".grid-sizer"}, filter: function() {
+      d.isotope({ itemSelector: ".isotope-item", percentPosition: true, masonry: { columnWidth: ".grid-sizer" }, filter: function() {
         let a3 = $(this), b2 = !i || a3.text().match(i), c2 = !e || a3.is(e);
         return b2 && c2;
-      }});
+      } });
       let a2 = $(".filter-search").keyup(J(function() {
         i = new RegExp(a2.val(), "gi"), d.isotope();
       }));
@@ -344,14 +341,14 @@
       if ($("#map").length) {
         let e2 = $("#map-provider").val(), a2 = $("#map-lat").val(), b2 = $("#map-lng").val(), c2 = parseInt($("#map-zoom").val()), d2 = $("#map-dir").val(), f2 = $("#map-api-key").val();
         if (e2 === "google") {
-          let e3 = new GMaps({div: "#map", lat: a2, lng: b2, zoom: c2, zoomControl: true, zoomControlOpt: {style: "SMALL", position: "TOP_LEFT"}, streetViewControl: false, mapTypeControl: false, gestureHandling: "cooperative"});
-          e3.addMarker({lat: a2, lng: b2, click: function() {
+          let e3 = new GMaps({ div: "#map", lat: a2, lng: b2, zoom: c2, zoomControl: true, zoomControlOpt: { style: "SMALL", position: "TOP_LEFT" }, streetViewControl: false, mapTypeControl: false, gestureHandling: "cooperative" });
+          e3.addMarker({ lat: a2, lng: b2, click: function() {
             let c3 = "https://www.google.com/maps/place/" + encodeURIComponent(d2) + "/@" + a2 + "," + b2 + "/";
             window.open(c3, "_blank");
-          }, title: d2});
+          }, title: d2 });
         } else {
           let g2 = new L.map("map").setView([a2, b2], c2);
-          e2 === "mapbox" && f2.length ? L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery \xA9 <a href="http://mapbox.com">Mapbox</a>', tileSize: 512, maxZoom: 18, zoomOffset: -1, id: "mapbox/streets-v11", accessToken: f2}).addTo(g2) : L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {maxZoom: 19, attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'}).addTo(g2);
+          e2 === "mapbox" && f2.length ? L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", { attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery \xA9 <a href="http://mapbox.com">Mapbox</a>', tileSize: 512, maxZoom: 18, zoomOffset: -1, id: "mapbox/streets-v11", accessToken: f2 }).addTo(g2) : L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", { maxZoom: 19, attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>' }).addTo(g2);
           let h2 = L.marker([a2, b2]).addTo(g2), i2 = a2 + "," + b2 + "#map=" + c2 + "/" + a2 + "/" + b2 + "&layers=N";
           h2.bindPopup(d2 + '<p><a href="https://www.openstreetmap.org/directions?engine=osrm_car&route=' + i2 + '">Routing via OpenStreetMap</a></p>');
         }
@@ -367,7 +364,7 @@
       });
     }
     function n() {
-      $("body").hasClass("searching") ? ($("[id=search-query]").blur(), $("body").removeClass("searching compensate-for-scrollbar"), F(), $("#fancybox-style-noscroll").remove()) : (!$("#fancybox-style-noscroll").length && document.body.scrollHeight > window.innerHeight && ($("head").append('<style id="fancybox-style-noscroll">.compensate-for-scrollbar{margin-right:' + (window.innerWidth - document.documentElement.clientWidth) + "px;}</style>"), $("body").addClass("compensate-for-scrollbar")), $("body").addClass("searching"), $(".search-results").css({opacity: 0, visibility: "visible"}).animate({opacity: 1}, 200), $("#search-query").focus());
+      $("body").hasClass("searching") ? ($("[id=search-query]").blur(), $("body").removeClass("searching compensate-for-scrollbar"), F(), $("#fancybox-style-noscroll").remove()) : (!$("#fancybox-style-noscroll").length && document.body.scrollHeight > window.innerHeight && ($("head").append('<style id="fancybox-style-noscroll">.compensate-for-scrollbar{margin-right:' + (window.innerWidth - document.documentElement.clientWidth) + "px;}</style>"), $("body").addClass("compensate-for-scrollbar")), $("body").addClass("searching"), $(".search-results").css({ opacity: 0, visibility: "visible" }).animate({ opacity: 1 }, 200), $("#search-query").focus());
     }
     function m() {
       $(".carousel").each(function() {
@@ -389,7 +386,7 @@
     }
     $(document).ready(function() {
       K(), I(), P && hljs.initHighlighting();
-      let {isDarkTheme: c2, themeMode: d2} = H();
+      let { isDarkTheme: c2, themeMode: d2 } = H();
       j(c2, d2, true);
       let a2 = document.querySelector(".docs-links .active"), b2 = document.querySelector(".docs-links");
       a2 && b2 && r(b2, a2);
@@ -408,12 +405,12 @@
         b3.querySelector(".isotope").classList.contains("js-layout-row") ? c3 = "fitRows" : c3 = "masonry";
         let f3 = b3.querySelector(".default-project-filter"), d3 = "*";
         f3 !== null && (d3 = f3.textContent), console.debug(`Default Isotope filter: ${d3}`), imagesLoaded(a3, function() {
-          e3 = new Isotope(a3, {itemSelector: ".isotope-item", layoutMode: c3, masonry: {gutter: 20}, filter: d3});
+          e3 = new Isotope(a3, { itemSelector: ".isotope-item", layoutMode: c3, masonry: { gutter: 20 }, filter: d3 });
           let f4 = b3.querySelectorAll(".project-filters a");
           f4.forEach((a4) => a4.addEventListener("click", (c4) => {
             c4.preventDefault();
             let b4 = a4.getAttribute("data-filter");
-            console.debug(`Updating Isotope filter to ${b4}`), e3.arrange({filter: b4}), a4.classList.remove("active"), a4.classList.add("active");
+            console.debug(`Updating Isotope filter to ${b4}`), e3.arrange({ filter: b4 }), a4.classList.remove("active"), a4.classList.add("active");
             let d4 = S(a4);
             d4.forEach((a5) => {
               a5.classList.remove("active"), a5.classList.remove("all");
@@ -475,12 +472,12 @@
       clearTimeout(v), v = setTimeout(D, 200);
     });
   })(), (() => {
-    var e = {authors: "Authors", event: "Events", post: "Posts", project: "Projects", publication: "Publications", slides: "Slides"}, f = {no_results: "No results found", placeholder: "Search...", results: "results found"}, c = {indexURI: "/index.json", minLength: 1, threshold: 0.3}, d = {shouldSort: true, includeMatches: true, tokenize: true, threshold: c.threshold, location: 0, distance: 100, maxPatternLength: 32, minMatchCharLength: c.minLength, keys: [{name: "title", weight: 0.99}, {name: "summary", weight: 0.6}, {name: "authors", weight: 0.5}, {name: "content", weight: 0.2}, {name: "tags", weight: 0.5}, {name: "categories", weight: 0.5}]}, a = 60;
+    var e = { authors: "Authors", event: "Events", post: "Posts", project: "Projects", publication: "Publications", slides: "Slides" }, f = { no_results: "No results found", placeholder: "Search...", results: "results found" }, c = { indexURI: "/index.json", minLength: 1, threshold: 0.3 }, d = { shouldSort: true, includeMatches: true, tokenize: true, threshold: c.threshold, location: 0, distance: 100, maxPatternLength: 32, minMatchCharLength: c.minLength, keys: [{ name: "title", weight: 0.99 }, { name: "summary", weight: 0.6 }, { name: "authors", weight: 0.5 }, { name: "content", weight: 0.2 }, { name: "tags", weight: 0.5 }, { name: "categories", weight: 0.5 }] }, a = 60;
     function g(a2) {
       return decodeURIComponent((location.search.split(a2 + "=")[1] || "").split("&")[0]).replace(/\+/g, " ");
     }
     function h(a2) {
-      history.replaceState && window.history.replaceState({path: a2}, "", a2);
+      history.replaceState && window.history.replaceState({ path: a2 }, "", a2);
     }
     function b(b2, c2) {
       let a2 = $("#search-query").val();
@@ -505,7 +502,7 @@
         }), h2.length < 1 && (h2 += c3.item.summary);
         let l = $("#search-hit-fuse-template").html();
         f2 in e && (f2 = e[f2]);
-        let m = {key: j2, title: c3.item.title, type: f2, relpermalink: c3.item.relpermalink, snippet: h2}, n = k(l, m);
+        let m = { key: j2, title: c3.item.title, type: f2, relpermalink: c3.item.relpermalink, snippet: h2 }, n = k(l, m);
         $("#search-hits").append(n), $.each(i2, function(b3, a2) {
           $("#summary-" + j2).mark(a2);
         });
@@ -519,7 +516,7 @@
     }
     typeof Fuse == "function" && $.getJSON(c.indexURI, function(e2) {
       let a2 = new Fuse(e2, d), c2 = g("q");
-      c2 && ($("body").addClass("searching"), $(".search-results").css({opacity: 0, visibility: "visible"}).animate({opacity: 1}, 200), $("#search-query").val(c2), $("#search-query").focus(), b(true, a2)), $("#search-query").keyup(function(c3) {
+      c2 && ($("body").addClass("searching"), $(".search-results").css({ opacity: 0, visibility: "visible" }).animate({ opacity: 1 }, 200), $("#search-query").val(c2), $("#search-query").focus(), b(true, a2)), $("#search-query").keyup(function(c3) {
         clearTimeout($.data(this, "searchTimer")), c3.keyCode == 13 ? b(true, a2) : $(this).data("searchTimer", setTimeout(function() {
           b(false, a2);
         }, 250));
@@ -527,3 +524,6 @@
     });
   })();
 })();
+/*! Copyright 2016-present George Cushen (https://georgecushen.com/) */
+/*! License: https://github.com/wowchemy/wowchemy-hugo-modules/blob/main/LICENSE.md */
+/*! Wowchemy v5.0.0-beta.3 | https://wowchemy.com/ */
