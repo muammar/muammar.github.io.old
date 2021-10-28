@@ -74,7 +74,7 @@ highlight_name: false
 
 Muammar is a principal scientist applying machine learning to solve
 problems in drug discovery at Bristol-Myers-Squibb. His research interests
-include feature extraction, deep learning, and software solutions.
+include machine learning, physical chemistry, and software solutions.
 
 He is a chemist by training from the University of Zulia in Venezuela and
 started his graduate studies with a European Master in Theoretical Chemistry
