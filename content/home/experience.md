@@ -108,4 +108,20 @@ experience:
     date_start: '2012-07-01'
     date_end: '2015-07-07'
     description: Characterization of metallic and insulating properties of low-dimensional systems.
+    
+  - title: Master in Theoretical Chemistry and Computational Modeling
+    company: Université Paul Sabatier, Università degli Studi di Perugia
+    company_url: ''
+    location: Toulouse, France and Perugia, Italy
+    date_start: '2010-09-01'
+    date_end: '2012-07-01'
+    description: Electronic Structure
+
+  - title: B.S. in Chemistry
+    company: Universidad del Zulia, Venezuela
+    company_url: ''
+    location: Maracaibo, Venezuela
+    date_start: '2010-05-10'
+    date_end: '2001-10-01'
+    description: Characterization of metallic and insulating properties of low-dimensional systems.
 ---
