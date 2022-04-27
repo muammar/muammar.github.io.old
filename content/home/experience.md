@@ -115,7 +115,9 @@ experience:
     location: Toulouse, France and Perugia, Italy
     date_start: '2010-09-01'
     date_end: '2012-07-01'
-    description: Electronic Structure
+    description: |2-
+    I was awarded with an Erasmus Mundus Scholarship to do my studies in different European universities. 
+    My dissertation was titled: "An ab initio potential energy surface for quantum reactive scattering calculations."
 
   - title: B.S. in Chemistry
     company: Universidad del Zulia, Venezuela
@@ -123,5 +125,7 @@ experience:
     location: Maracaibo, Venezuela
     date_start: '2010-05-10'
     date_end: '2001-10-01'
-    description: Characterization of metallic and insulating properties of low-dimensional systems.
+    description: |2-
+     My dissertation was titled: "Determination of the linear and nonlinear optical properties of the nitrogenous bases of DNA, 
+     RNA and their respective tautomers."
 ---
