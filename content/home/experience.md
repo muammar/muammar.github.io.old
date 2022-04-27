@@ -107,7 +107,8 @@ experience:
     location: Toulouse, France
     date_start: '2012-07-01'
     date_end: '2015-07-07'
-    description: Characterization of metallic and insulating properties of low-dimensional systems.
+    description: |2-
+        My PhD thesis was titled:  "Characterization of metallic and insulating properties of low-dimensional systems".
     
   - title: Master in Theoretical Chemistry and Computational Modeling
     company: Université Paul Sabatier, Università degli Studi di Perugia
@@ -116,8 +117,8 @@ experience:
     date_start: '2010-09-01'
     date_end: '2012-07-01'
     description: |2-
-    I was awarded with an Erasmus Mundus Scholarship to do my studies in different European universities. 
-    My dissertation was titled: "An ab initio potential energy surface for quantum reactive scattering calculations."
+        I was awarded with an Erasmus Mundus Scholarship to do my studies in different European universities. 
+        My dissertation was titled: "An ab initio potential energy surface for quantum reactive scattering calculations."
 
   - title: B.S. in Chemistry
     company: Universidad del Zulia, Venezuela
@@ -126,6 +127,6 @@ experience:
     date_start: '2010-05-10'
     date_end: '2001-10-01'
     description: |2-
-     My dissertation was titled: "Determination of the linear and nonlinear optical properties of the nitrogenous bases of DNA, 
-     RNA and their respective tautomers."
+        My dissertation was titled: "Determination of the linear and nonlinear optical properties of the nitrogenous bases of DNA, 
+        RNA and their respective tautomers."
 ---
