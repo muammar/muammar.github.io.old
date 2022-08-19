@@ -18,10 +18,11 @@ bio: My research interests include machine learning, electronic structure and so
 
 # Interests to show in About widget
 interests:
-- Machine Learning (deep and shallow)
-- Software Development
-- Theoretical Chemical Physics
-- Electronic Structure
+- Machine Learning (deep and shallow).
+- Uncertainty Quantification.
+- Software Development.
+- Theoretical Chemical Physics.
+- Electronic Structure.
 
 # Education to show in About widget
 education:
