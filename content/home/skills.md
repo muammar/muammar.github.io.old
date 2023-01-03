@@ -17,9 +17,9 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 0.33
-  icon: python
+  icon: code
   icon_pack: fab
-  name: Python
+  name: Software Development
 - description: 0.34
   icon: atom
   icon_pack: fas
