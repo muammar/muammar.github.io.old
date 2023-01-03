@@ -18,8 +18,8 @@ subtitle:
 feature:
 - description: 0.33
   icon: code
-  icon_pack: fab
-  name: Software Development
+  icon_pack: fas
+  name: Coding 
 - description: 0.34
   icon: atom
   icon_pack: fas
