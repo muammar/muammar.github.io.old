@@ -58,6 +58,8 @@ experience:
         * Present strategies, approaches, results and conclusions to BMS colleagues and external audiences.
         * Contribute to enable strategic collaborations with academic and commercial collaborators to benefit
           therapeutic programs.
+        * Apply uncertainty quantification to the prediction of deep learning models.
+        * Supervise Ph.D. Students in Summer Internships.
 
   - title: Postdoctoral Scholar
     company: Lawrence Berkeley National Laboratory
