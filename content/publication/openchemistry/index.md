@@ -27,11 +27,11 @@ publishDate: "2020-09-03T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ArXiv
-publication_short: In *ICW*
+publication: International Journal of Quantum Chemistry
+publication_short: In *Int. J. Quantum Chem.*
 
 abstract: "Quantum chemistry must evolve if it wants to fully leverage the benefits of the inter-net age, where the worldwide web offers a vast tapestry of tools that enable usersto communicate and interact with complex data at the speed and convenience of abutton press. The Open Chemistry project has developed an open-source frameworkthat offers an end-to-end solution for producing, sharing, and visualizing quantumchemical data interactively on the web using an array of modern tools andapproaches. These tools build on some of the best open-source community projectssuch as Jupyter for interactive online notebooks, coupled with 3D accelerated visual-ization, state-of-the-art computational chemistry codes including NWChem and Psi4,and emerging machine learning and data mining tools such as ChemML and ANI.They offer flexible formats to import and export data, along with approaches tocompare computational and experimental data."
 
