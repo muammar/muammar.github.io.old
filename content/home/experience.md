@@ -29,32 +29,41 @@ experience:
     date_start: '2020-11-30'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Reporting to the lead for Predictive Drug Substance Research, scenarios will involve a range of datasets
-          and learning objectives, including for example drug discovery, structural biology, multi-modal modeling
-          and prediction for chemical and biological datasets.
-        * Formulation and implementation of predictive modeling and machine learning solutions for the optimization of chemical structures and properties.
-        * Application of cutting-edge machine learning (deep learning) approaches to structural biology and
-          molecular interaction challenges.
-        * Design and generation of integrated chemical and biological data assets for predictive research in
-          partnership with internal and external collaborators. 
-        * Work alongside experts in familiar applications of machine learning in the biotechnology domain, including:
-          1. Collaboration to develop human-in-the-loop systems to capture and operationalize machine learning datasets and algorithms used by BMS scientists.
-          2. Application of supervised, self-supervised, semi-supervised deep learning methods to derive robust
-          generalizable and reusable representations for chemical and biological assay data. 
-          3. Design of multi-task, multi-modal and generative neural network learning approaches to tackle
-          real-world drug discovery optimization problems.
-        * Pursue leading research in applied machine learning that demonstrates the value of predictive methods
-          to accelerate and optimize drug development.
-        * Derive and apply predictive approaches in collaboration with BMS colleagues in the Informatics and
-          Predictive Sciences, and Chemistry departments.
-        * Apply rigorous internal standards for applied machine learning practice, including evaluation of methods, approaches and solutions.
-        * Present strategies, approaches, results and conclusions to BMS colleagues and external audiences.
-        * Contribute to enable strategic collaborations with academic and commercial collaborators to benefit
-          therapeutic programs.
-        * Apply uncertainty quantification to predict epistemic uncertainty. 
-        * Supervise Ph.D. Students in Summer Internships.
+      Responsibilities include:
+
+      * Reporting to the lead for Predictive Drug Substance Research, scenarios
+        will involve a range of datasets and learning objectives, including drug
+        discovery, structural biology, multi-modal modeling, and prediction for chemical
+        and biological datasets.
+      * Formulation and implementation of predictive modeling and machine learning
+        solutions for optimizing chemical structures and properties.
+      * Application of cutting-edge machine learning (deep learning) approaches to
+        structural biology and molecular interaction challenges.
+      * Design and generation of integrated chemical and biological data assets
+        for predictive research in partnership with internal and external collaborators.
+      * Work alongside experts in familiar applications of machine learning in the
+        biotechnology domain, including:
+
+        1. Collaboration to develop human-in-the-loop systems to capture and
+        operationalize machine learning datasets and algorithms used by BMS scientists.
+        2. Application of supervised, self-supervised, semi-supervised deep learning
+        methods to derive robust generalizable and reusable representations for chemical
+        and biological assay data.
+        3. Design of multi-task, multi-modal, and generative neural network learning
+        approaches to tackle real-world drug discovery optimization problems.
+
+      * Pursue leading research in applied machine learning that demonstrates the
+      value of predictive methods to accelerate and optimize drug development.
+      * Derive and apply predictive approaches in collaboration with BMS
+      colleagues in the Informatics and Predictive Sciences and Chemistry departments.
+      * Apply rigorous internal standards for applied machine learning practice,
+      including evaluation of methods, approaches, and solutions.
+      * Present strategies, approaches, results, and conclusions to BMS colleagues
+      and external audiences.
+      * Contribute to enable strategic collaborations with academic and commercial
+      collaborators to benefit therapeutic programs.
+      * Apply uncertainty quantification to predict epistemic uncertainty.
+      * Supervise Ph.D. Students in Summer Internships.
 
   - title: Postdoctoral Scholar
     company: Lawrence Berkeley National Laboratory
