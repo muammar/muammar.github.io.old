@@ -45,7 +45,7 @@ experience:
         operationalize machine learning datasets and algorithms used by BMS
         scientists.
         2. Application of supervised and semi-supervised deep learning methods
-        to derive robust, generalizable and reusable representations for chemical
+        to derive robust, generalizable, and reusable representations for chemical
         and biological assay data.
         3. Design of multi-task, multi-modal, and generative neural network
         learning approaches to tackle real-world drug discovery optimization
@@ -119,7 +119,7 @@ experience:
     date_start: '2012-07-01'
     date_end: '2015-07-07'
     description: |2-
-        My Ph.D. thesis was titled:  "Characterization of metallic and insulating properties of low-dimensional systems".
+        My Ph.D. thesis was titled:  "Characterization of metallic and insulating properties of low-dimensional systems."
     
   - title: Master in Theoretical Chemistry and Computational Modeling
     company: Université Paul Sabatier, Università degli Studi di Perugia
