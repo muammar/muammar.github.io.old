@@ -188,8 +188,8 @@ See: https://github.com/francoischalifour/medium-zoom`);
     }
     function C(e2, t2 = 600) {
       e2.style.display = "", e2.style.opacity = "0";
-      let s2 = +new Date(), n2 = function() {
-        e2.style.opacity = (+e2.style.opacity + (new Date() - s2) / t2).toString(), s2 = +new Date(), +e2.style.opacity < 1 && (window.requestAnimationFrame && requestAnimationFrame(n2) || setTimeout(n2, 16));
+      let s2 = +/* @__PURE__ */ new Date(), n2 = function() {
+        e2.style.opacity = (+e2.style.opacity + (/* @__PURE__ */ new Date() - s2) / t2).toString(), s2 = +/* @__PURE__ */ new Date(), +e2.style.opacity < 1 && (window.requestAnimationFrame && requestAnimationFrame(n2) || setTimeout(n2, 16));
       };
       n2();
     }
