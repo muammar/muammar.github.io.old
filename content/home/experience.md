@@ -45,7 +45,7 @@ experience:
         operationalize machine learning datasets and algorithms used by BMS
         scientists.
         2. Application of supervised and semi-supervised deep learning methods
-        to derive robust generalizable and reusable representations for chemical
+        to derive robust, generalizable and reusable representations for chemical
         and biological assay data.
         3. Design of multi-task, multi-modal, and generative neural network
         learning approaches to tackle real-world drug discovery optimization
@@ -79,7 +79,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Developed a python library to ease the deployment of machine learning models for chemistry and
+        * Developed a Python library to ease the deployment of machine learning models for chemistry and
           materials sciences. https://github.com/muammar/ml4chem. This package is helping us advance our
           research faster because we can consistently implement new methods.
         * Developed a neural network model that can learn how to predict retention times from chromatography
@@ -103,11 +103,11 @@ experience:
         Responsibilities include:
         
         * Worked on the acceleration of electronic structure calculations using machine learning models 
-          to decrease orders of magnitude the computational time needed by the simulations.
+          to decrease orders of magnitude of the computational time needed by the simulations.
         * Was actively involved in the development of the Atomistic Machine-learning Package (Amp) created
-          and maintained by the Catalyst Design laboratory at Brown University 
+          and maintained by the Catalyst Design Laboratory at Brown University 
           https://bitbucket.org/andrewpeterson/amp.
-        * Implemented kernel ridge regression within an atom-centered mode in their machine learning package.
+        * Implemented kernel ridge regression within an atom-centered mode in their machine-learning package.
         * Participated in the design of scientific projects and supervision of students during their research
             in our laboratory.
         * Presented scientific results in international conferences.
@@ -119,7 +119,7 @@ experience:
     date_start: '2012-07-01'
     date_end: '2015-07-07'
     description: |2-
-        My PhD thesis was titled:  "Characterization of metallic and insulating properties of low-dimensional systems".
+        My Ph.D. thesis was titled:  "Characterization of metallic and insulating properties of low-dimensional systems".
     
   - title: Master in Theoretical Chemistry and Computational Modeling
     company: Université Paul Sabatier, Università degli Studi di Perugia
@@ -128,7 +128,7 @@ experience:
     date_start: '2010-09-01'
     date_end: '2012-07-01'
     description: |2-
-        I was awarded with an Erasmus Mundus Scholarship to do my studies in different European universities. 
+        I was awarded an Erasmus Mundus Scholarship to do my studies in different European universities. 
         My dissertation was titled: "An ab initio potential energy surface for quantum reactive scattering calculations."
 
   - title: B.S. in Chemistry
@@ -138,6 +138,6 @@ experience:
     date_start: '2010-05-10'
     date_end: '2001-10-01'
     description: |2-
-        My dissertation was titled: "Determination of the linear and nonlinear optical properties of the nitrogenous bases of DNA, 
+        My dissertation was titled: "Determination of the Linear and Nonlinear Optical Properties of the Nitrogenous Bases of DNA, 
         RNA and their respective tautomers."
 ---
