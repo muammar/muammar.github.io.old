@@ -27,7 +27,7 @@ experience:
     company_url: ''
     location: Cambridge, MA, United States
     date_start: '2020-11-30'
-    date_end: ''
+    date_end: '2024-03-29'
     description: |2-
       Responsibilities include:
       * Report to the lead for Predictive Sciences of the IPS organization;
